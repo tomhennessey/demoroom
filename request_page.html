@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Demo Request Form</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header id="header">
+  <h1>Chemistry Demo Room</h1>
+	
+  <nav id="nav-bar">
+	<a href="index.html">Home</a> | 
+	<a href="#top">Request a Demo</a>
+  </nav>
+</header>
+
+<main id="main">
+
+  <form action="process-form.php" method="post" id="request-form">
+    <label for="name">Enter your name: </label>
+	<input type="text" name="name" id="name" required><br>
+	  
+	<label for="email"> Enter your email: </label>
+	<input type="email" name="email" id="email" required><br>
+	  
+	<label for="demo-name">Enter the name of the demo you're requesting: </label>
+	<input type="text" name="demo-name" id="demo-name" required><br>
+	  
+	<label for="dateTime">Enter the date and time you would like your demo prepared: </label>
+	<input type="datetime-local" name="dateTime" id="dateTime" required><br>
+	  
+	<!--<label for="time"> Enter the of the lecture you would like your demo prepared for: </label>
+	<input type="time" name="time" id="time" required><br>
+	  -->
+	<label for="info">Enter any additional information here: </label><br>
+	<textarea name="info" id="info" rows="5" cols="33"></textarea><br><br>
+	  
+	<input type="submit">
+	  
+	 
+  </form>
+	
+</main>
+</body>
+</html>

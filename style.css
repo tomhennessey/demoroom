@@ -1,0 +1,56 @@
+@charset "utf-8";
+#header h1 {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif';
+	font-style: regular;
+	font-size: 42px;
+	text-align: center;
+}
+
+#header {
+	border-bottom: thick double #E2A246;
+}
+
+#highlighted-banner {
+    /* float: left; */
+    height: 362px;
+    background-color: #BAD5DA;
+    margin-bottom: 40px;
+}
+
+/* Style the button that is used to open and close the collapsible content */ 
+.collapsible {
+	background-color: #eee;
+	color: #444;
+	cursor: pointer;
+	padding: 18px;
+	width:100%;
+	border: none;
+	text-align: center;
+	outline: none;
+	font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+	background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+	padding: 0 18px;
+	display: none;
+	overflow: hidden;
+	/*width: 100%;*/
+	text-align: center;
+	background-color: #ccc;
+}
+
+.column {
+	float: center;
+	width: 100%;
+}
+
+.row{
+	margin: 0px 200px;
+}
+
