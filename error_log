@@ -1,0 +1,134 @@
+[10-Apr-2020 11:17:13 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:17:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:17:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:17:36 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:18:02 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:18:02 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:18:03 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:18:44 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/chemdemoroom/public_html/test_email.php on line 17
+[10-Apr-2020 11:32:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/chemdemoroom/public_html/process-form.php on line 21
+[10-Apr-2020 11:35:11 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/chemdemoroom/public_html/process-form.php on line 21
+[10-Apr-2020 11:35:13 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/chemdemoroom/public_html/process-form.php on line 21
+[10-Apr-2020 11:36:02 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/chemdemoroom/public_html/process-form.php on line 21
+[10-Apr-2020 11:36:04 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/chemdemoroom/public_html/process-form.php on line 21
+[10-Apr-2020 12:02:16 America/Chicago] PHP Warning:  A non-numeric value encountered in /home/chemdemoroom/public_html/process-form.php on line 17
+[10-Apr-2020 12:02:16 America/Chicago] PHP Warning:  A non-numeric value encountered in /home/chemdemoroom/public_html/process-form.php on line 17
+[10-Apr-2020 12:14:42 America/Chicago] PHP Warning:  A non-numeric value encountered in /home/chemdemoroom/public_html/process-form.php on line 17
+[10-Apr-2020 12:14:42 America/Chicago] PHP Warning:  A non-numeric value encountered in /home/chemdemoroom/public_html/process-form.php on line 17
+[10-Apr-2020 12:14:42 America/Chicago] PHP Warning:  A non-numeric value encountered in /home/chemdemoroom/public_html/process-form.php on line 17
+[10-Apr-2020 12:14:42 America/Chicago] PHP Warning:  A non-numeric value encountered in /home/chemdemoroom/public_html/process-form.php on line 17
+[10-Apr-2020 12:18:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$demo_name' (T_VARIABLE) in /home/chemdemoroom/public_html/process-form.php on line 17
+[10-Apr-2020 13:17:41 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 13:20:41 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 13:21:32 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/chemdemoroom/public_html/process-form.php on line 15
+[10-Apr-2020 13:25:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 13:28:15 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 13:29:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/chemdemoroom/public_html/process-form.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 43
+[10-Apr-2020 13:48:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 13:50:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 14:01:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 14:01:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 14:02:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 14:02:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 14:03:52 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:05:26 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:06:34 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:06:51 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:07:22 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:08:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[10-Apr-2020 14:08:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/chemdemoroom/public_html/process-form.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 21
+[10-Apr-2020 14:09:10 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 24
+[10-Apr-2020 14:09:20 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 24
+[10-Apr-2020 14:09:26 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:10:41 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:11:05 America/Chicago] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/chemdemoroom/public_html/process-form.php on line 23
+[10-Apr-2020 14:13:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/chemdemoroom/public_html/process-form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/process-form.php on line 20
+[22-Apr-2020 20:21:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/chemdemoroom/public_html/search.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/search.php on line 11
+[22-Apr-2020 20:21:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/chemdemoroom/public_html/search.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/search.php on line 11
+[22-Apr-2020 20:22:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/chemdemoroom/public_html/search.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/search.php on line 11
+[23-Apr-2020 09:05:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/chemdemoroom/public_html/search.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/search.php on line 11
+[23-Apr-2020 09:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/chemdemoroom/public_html/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/search.php on line 13
+[23-Apr-2020 09:14:47 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/chemdemoroom/public_html/search.php on line 15
+[23-Apr-2020 09:14:47 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/chemdemoroom/public_html/search.php on line 15
+[23-Apr-2020 09:30:03 America/Chicago] PHP Notice:  Undefined index: query in /home/chemdemoroom/public_html/search.php on line 39
+[23-Apr-2020 09:30:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/chemdemoroom/public_html/search.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/search.php on line 41
+[23-Apr-2020 09:46:50 America/Chicago] PHP Notice:  Undefined index: query in /home/chemdemoroom/public_html/search.php on line 39
+[23-Apr-2020 09:46:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:48:06 America/Chicago] PHP Notice:  Undefined index: query in /home/chemdemoroom/public_html/search.php on line 39
+[23-Apr-2020 09:48:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:50:27 America/Chicago] PHP Notice:  Undefined index: query in /home/chemdemoroom/public_html/search.php on line 39
+[23-Apr-2020 09:50:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:50:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:50:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:53:30 America/Chicago] PHP Notice:  Undefined index: query in /home/chemdemoroom/public_html/search.php on line 39
+[23-Apr-2020 09:53:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:53:43 America/Chicago] PHP Notice:  Undefined index: query in /home/chemdemoroom/public_html/search.php on line 39
+[23-Apr-2020 09:53:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:54:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:54:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:55:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 09:57:15 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/chemdemoroom/public_html/search.php on line 46
+[23-Apr-2020 09:59:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_results() in /home/chemdemoroom/public_html/search.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 10:00:04 America/Chicago] PHP Warning:  mysqli_num_rows(): Function cannot be used with MYSQL_USE_RESULT in /home/chemdemoroom/public_html/search.php on line 44
+[23-Apr-2020 10:00:04 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/chemdemoroom/public_html/search.php on line 49
+[23-Apr-2020 10:00:27 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/chemdemoroom/public_html/search.php on line 49
+[23-Apr-2020 10:00:51 America/Chicago] PHP Warning:  Use of undefined constant FOUND - assumed 'FOUND' (this will throw an Error in a future version of PHP) in /home/chemdemoroom/public_html/search.php on line 46
+[23-Apr-2020 10:03:28 America/Chicago] PHP Notice:  Undefined index: name in /home/chemdemoroom/public_html/search.php on line 47
+[23-Apr-2020 10:03:28 America/Chicago] PHP Notice:  Undefined index: text in /home/chemdemoroom/public_html/search.php on line 47
+[23-Apr-2020 10:03:56 America/Chicago] PHP Notice:  Undefined index: id in /home/chemdemoroom/public_html/search.php on line 47
+[23-Apr-2020 10:06:20 America/Chicago] PHP Notice:  Undefined index: name in /home/chemdemoroom/public_html/search.php on line 47
+[23-Apr-2020 10:07:08 America/Chicago] PHP Notice:  Array to string conversion in /home/chemdemoroom/public_html/search.php on line 47

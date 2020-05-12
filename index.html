@@ -10,167 +10,192 @@
 <body>
 <header id="header">
 	<h1>Chemistry Demo Room</h1>
-	
+	<a id="logo" href="http://www.illinois.edu"><img src="images/illinois-logo-orange.png" alt="Illinois Logo"></a>
   <nav id="nav-bar">
-	<a href="#top">Home</a> | 
-	<a href="./request_page.html">Request a Demo</a>
+	<a class = "nav-link" href="#top">Home</a> 
+	<a class = "nav-link" href="./request_page.html">Request a Demo</a>
+	<a class = "nav-link" href="https://chemistry.illinois.edu/holiday-magic" target="_blank">Holiday Demo Show</a>
+	<a class="nav-link" href="./about_us.html">About Us</a>
+	<a class = "nav-link" href="./contact_us.html">Contact Us</a>
   </nav>
 </header>
+<div id="opening">This website is for lecturer's at the University of Illinois at Urbana-Champaign's Chemistry Department to request chemical demonstrations for their lectures. Demos can be browsed by category or searched below. </div>
+	
+<div id="search_bar">
+	<form action="search.php" method="get">
+	<input type="text" placeholder="Enter search term(s)" name="query" id="query">
+	<input type="submit" value="Search">
+	</form>
+</div>
+	
+<main class="main" id="index_main">
 
-<main id="main">
-<div class="row">
+<div class="row" id="demo_list">
 <button type="button" class="collapsible column">Acids and Bases</button>
 <div class="content">
-	<div>Colorful Indicators - <a href=".\demos\colorful-indicators.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name=test">Request This Demo</a></div>
-	<!--<div>Magic Breathe - <a href="" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div> -->
-	<div>Seeing the Light Titration - <a href=".\demos\seeing-the-light-titration-reactions.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./acids_bases.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Colorful Indicators - <a href=".\demos\colorful-indicators.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Colorful_Indicators">Request This Demo</a></div>
+	<!--<div>Magic Breathe - <a href="./request_page.html?demo-name0=" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Magic_Breath">Request This Demo</a></div> -->
+	<div class="demo">Seeing the Light Titration - <a href=".\demos\seeing-the-light-titration-reactions.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Seeing_the_Light_Titration">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Atoms</button>
 <div class="content">
-	<div>Flame Tests - <a href=".\demos\flame-tests.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Reactive Metals - <a href=".\demos\reactive-metals.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>The Electric Pickle - <a href=".\demos\electric-pickle.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./atoms.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Flame Tests - <a href=".\demos\flame-tests.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Flame_Tests">Request This Demo</a></div>
+	<div class="demo">Reactive Metals - <a href=".\demos\reactive-metals.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Reactive_Metals">Request This Demo</a></div>
+	<div class="demo">The Electric Pickle - <a href=".\demos\electric-pickle.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Electric_Pickle">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Electrochemistry</button>
 <div class="content">
-	<div>Conductivity - <a href=".\demos\conductivity.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Galvanic Cells - <a href=".\demos\galvanic-cells.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Silver Tree - <a href=".\demos\silver-tree.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./electrochemistry.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Conductivity - <a href=".\demos\conductivity.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Conductivity">Request This Demo</a></div>
+	<div class="demo">Galvanic Cells - <a href=".\demos\galvanic-cells.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Galvanic_Cells">Request This Demo</a></div>
+	<div class="demo">Silver Tree - <a href=".\demos\silver-tree.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Silver_Tree">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Endothermic and Exothermic Reactions</button>
 <div class="content">
-	<div>Aluminum and Iodine - <a href=".\demos\aluminum-and-iodine.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>An Endothermic Reaction - <a href=".\demos\endothermic-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Carbon Dioxide Lantern - <a href=".\demos\carbon-dioxide-lantern.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Endothermic Reaction - <a href=".\demos\endothermic-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Flaming Gummi Bears - <a href=".\demos\flaming-gummi-bears.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Methane Bubbles - <a href=".\demos\methane-bubbles.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Organic Exothermic Reaction - <a href=".\demos\organic-exothermic-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Roman Candle - <a href=".\demos\roman-candle.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Spontaneous Combustion of Potassium Permanganate and Glycerine - <a href=".\demos\spontaneous-combustion-potassium-permanganate-and-glycerine.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Thermite Reaction - <a href=".\demos\thermite-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Underwater Flashes - <a href=".\demos\underwater-flashes.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./endothermic_exothermic.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Aluminum and Iodine - <a href=".\demos\aluminum-and-iodine.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Aluminum_and_Iodine">Request This Demo</a></div>
+	<div class="demo">An Endothermic Reaction - <a href=".\demos\endothermic-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Endothermic_Reaction">Request This Demo</a></div>
+	<div class="demo">Carbon Dioxide Lantern - <a href=".\demos\carbon-dioxide-lantern.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Carbon_Dioxide_Lantern">Request This Demo</a></div>
+	<div class="demo">Endothermic Reaction - <a href=".\demos\endothermic-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Endothermic_Reaction ">Request This Demo</a></div>
+	<div class="demo">Flaming Gummi Bears - <a href=".\demos\flaming-gummi-bears.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Flaming_Gummi_Bears">Request This Demo</a></div>
+	<div class="demo">Methane Bubbles - <a href=".\demos\methane-bubbles.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Methane_Bubbles">Request This Demo</a></div>
+	<div class="demo">Organic Exothermic Reaction - <a href=".\demos\organic-exothermic-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Organic_Exothermic_Reaction">Request This Demo</a></div>
+	<div class="demo">Roman Candle - <a href=".\demos\roman-candle.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Roman_Candle">Request This Demo</a></div>
+	<div class="demo">Spontaneous Combustion of Potassium Permanganate and Glycerine - <a href=".\demos\spontaneous-combustion-potassium-permanganate-and-glycerine.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Spontaneous_Combustion_of_KMnO4_and_Glycerine">Request This Demo</a></div>
+	<div class="demo">Thermite Reaction - <a href=".\demos\thermite-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Thermite">Request This Demo</a></div>
+	<div class="demo">Underwater Flashes - <a href=".\demos\underwater-flashes.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Underwater_Flashes">Request This Demo</a></div>
 </div>
-	
-
 	
 <button type="button" class="collapsible column">Equilibrium</button>
 <div class="content">
-	<div>Chemical Equilibrium - <a href=".\demos\chemical-equilibrium.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<!--<div>Chromate - <a href="" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div> -->
-	<div>Cobalt Complex Equilibrium - <a href=".\demos\cobalt-complex-equilibrium.pdf" target="_blank">View Demo Sheet</a> - <a href="" target="_blank">Request This Demo</a></div>
-	<!-- <div>Common Ion Effect - <a href="" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div> -->
-	<div>Le Chatelier's Principle - <a href=".\demos\le-chateliers-principle.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./equilibrium.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Chemical Equilibrium - <a href=".\demos\chemical-equilibrium.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Chemical_Equilibrium">Request This Demo</a></div>
+	<!--<div>Chromate - <a href="./request_page.html?demo-name0=" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=">Request This Demo</a></div> -->
+	<div class="demo">Cobalt Complex Equilibrium - <a href=".\demos\cobalt-complex-equilibrium.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Cobalt_Complex_Equilibrium" target="_blank">Request This Demo</a></div>
+	<!-- <div>Common Ion Effect - <a href="./request_page.html?demo-name0=" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=">Request This Demo</a></div> -->
 </div>
 	
 <button type="button" class="collapsible column">Explosive Reactions</button>
 <div class="content">
-	<div>Explosion of Lycopodium Powder - <a href=".\demos\explosion-of-lycopodium-powder.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Gun Cotton - <a href=".\demos\gun-cotton.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>The Methanol Cannon - <a href=".\demos\methanol-cannon.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Pop Bottles - <a href=".\demos\pop-bottles.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Soap Bubbles - <a href=".\demos\soap-bubbles.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./explosive.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Explosion of Lycopodium Powder - <a href=".\demos\explosion-of-lycopodium-powder.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Explosion_of_Lycopodium_Powder">Request This Demo</a></div>
+	<div class="demo">Gun Cotton - <a href=".\demos\gun-cotton.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Gun_Cotton">Request This Demo</a></div>
+	<div class="demo">The Methanol Cannon - <a href=".\demos\methanol-cannon.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Methanol_Cannon">Request This Demo</a></div>
+	<div class="demo">Pop Bottles - <a href=".\demos\pop-bottles.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Pop_Bottles">Request This Demo</a></div>
+	<div class="demo">Soap Bubbles - <a href=".\demos\soap-bubbles.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Soap_Bubbles">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Gases</button>
 <div class="content">
-	<div>A Helium Hot Air Balloon - <a href=".\demos\helium-hot-air-balloon.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Balloon in a Beaker - <a href=".\demos\balloon-in-a-beaker.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Calcium Carbide - <a href=".\demos\production-and-combustion-of-acetylene.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Collapsing Can - <a href=".\demos\collapsing-can.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Combustion of Gases - <a href=".\demos\combustion-of-gases.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Density of Gases - <a href=".\demos\density-of-gases.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Diffusion of Gases - <a href=".\demos\diffusion-of-gases.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Egg in a Bottle - <a href=".\demos\egg-in-a-bottle.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<!--<div>Gas Solubility and Pressure - <a href="">View Demo Sheet</a> - <a href="">Request This Demo</a></div> -->
-	<div>Marshmallow Man - <a href=".\demos\marshmallow-man.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<!-- <div>Measuring Vapor Pressure with a Barometer - <a href="" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div> -->
-	<div>Rising Water - <a href=".\demos\rising-water.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Wolff Bottle - Tinkler - <a href=".\demos\tinkler-wolff-bottle.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./gases.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">A Helium Hot Air Balloon - <a href=".\demos\helium-hot-air-balloon.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Helium_Hot_Air_Balloon">Request This Demo</a></div>
+	<div class="demo">Balloon in a Beaker - <a href=".\demos\balloon-in-a-beaker.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Balloon_in_a_Beaker">Request This Demo</a></div>
+	<div class="demo">Calcium Carbide - <a href=".\demos\production-and-combustion-of-acetylene.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Calcium_Carbide">Request This Demo</a></div>
+	<div class="demo">Collapsing Can - <a href=".\demos\collapsing-can.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Collapsing_Can">Request This Demo</a></div>
+	<div class="demo">Combustion of Gases - <a href=".\demos\combustion-of-gases.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Combustion_of_Gases">Request This Demo</a></div>
+	<div class="demo">Density of Gases - <a href=".\demos\density-of-gases.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Density_of_Gases">Request This Demo</a></div>
+	<div class="demo">Diffusion of Gases - <a href=".\demos\diffusion-of-gases.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Diffusion_Of_Gases">Request This Demo</a></div>
+	<div class="demo">Egg in a Bottle - <a href=".\demos\egg-in-a-bottle.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Egg_in_a_bottle">Request This Demo</a></div>
+	<!--<div>Gas Solubility and Pressure - <a href="./request_page.html?demo-name0=">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=">Request This Demo</a></div> -->
+	<div class="demo">Marshmallow Man - <a href=".\demos\marshmallow-man.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Marshmallow_Man">Request This Demo</a></div>
+	<!-- <div>Measuring Vapor Pressure with a Barometer - <a href="./request_page.html?demo-name0=" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=">Request This Demo</a></div> -->
+	<div class="demo">Rising Water - <a href=".\demos\rising-water.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Rising_Water">Request This Demo</a></div>
+	<div class="demo">Wolff Bottle - Tinkler - <a href=".\demos\tinkler-wolff-bottle.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Wolff_Bottle">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Kinetics and Thermodynamics</button>
 <div class="content">
-	<div>Autocatalysis - <a href=".\demos\autocatalysis.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Entropy and Rubber Bands - <a href=".\demos\entropy-and-rubber-bands.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Iodine Clock Reaction - <a href=".\demos\iodine-clock.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>The Activated Complex - <a href=".\demos\activated-complex.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./kinetics_thermodynamics.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Autocatalysis - <a href=".\demos\autocatalysis.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Autocatalysis">Request This Demo</a></div>
+	<div class="demo">Entropy and Rubber Bands - <a href=".\demos\entropy-and-rubber-bands.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Entropy_and_rubber_bands">Request This Demo</a></div>
+	<div class="demo">Iodine Clock Reaction - <a href=".\demos\iodine-clock.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Iodine_Clock">Request This Demo</a></div>
+	<div class="demo">The Activated Complex - <a href=".\demos\activated-complex.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Activated_Complex">Request This Demo</a></div>
 </div>
 
 <button type="button" class="collapsible column">Limiting Reactants</button>
 <div class="content">
-	<div>Limiting Reactants Pbl2 - <a href=".\demos\limiting-reactants-pbl2.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Limiting Reagent Vinegar and Baking Soda - <a href=".\demos\limiting-reagent-vinegar-baking-soda.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./limiting_reactants.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Limiting Reactants Pbl2 - <a href=".\demos\limiting-reactants-pbl2.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Limiting_Reactants_Pbl2">Request This Demo</a></div>
+	<div class="demo">Limiting Reagent Vinegar and Baking Soda - <a href=".\demos\limiting-reagent-vinegar-baking-soda.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Limiting_Reagent_Vinegar_and_Baking_Soda">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Liquids, Solids, and Colloids</button>
 <div class="content">
-	<div>Chemical Sunset - <a href=".\demos\chemical-sunset.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Corn Syrup Polarimeter - <a href=".\demos\corn-syrup-polarimeter.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Fire Snowballs - <a href=".\demos\fire-snowballs.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Liquid Oxygen - <a href=".\demos\liquid-o2.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Production of a Foam - <a href=".\demos\production-of-a-foam.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./liquids_solids_colloids.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Chemical Sunset - <a href=".\demos\chemical-sunset.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Chemical_Sunset">Request This Demo</a></div>
+	<div class="demo">Corn Syrup Polarimeter - <a href=".\demos\corn-syrup-polarimeter.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Corn_Syrup_Polarimeter">Request This Demo</a></div>
+	<div class="demo">Fire Snowballs - <a href=".\demos\fire-snowballs.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Fire_Snowballs">Request This Demo</a></div>
+	<div class="demo">Liquid Oxygen - <a href=".\demos\liquid-o2.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Liquid_Oxygen">Request This Demo</a></div>
+	<div class="demo">Production of a Foam - <a href=".\demos\production-of-a-foam.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Production_of_a_Foam">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Organic Reactions</button>
 <div class="content">
-	<div>Bromination of Alkenes - <a href=".\demos\bromination-of-alkenes.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Luminol - <a href=".\demos\luminol.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Polar and Non-Polar - <a href=".\demos\polar-and-nonpolar.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./organic.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Bromination of Alkenes - <a href=".\demos\bromination-of-alkenes.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Bromination_of_Alkenes">Request This Demo</a></div>
+	<div class="demo">Luminol - <a href=".\demos\luminol.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Luminol">Request This Demo</a></div>
+	<div class="demo">Polar and Non-Polar - <a href=".\demos\polar-and-nonpolar.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Polar_and_Nonpolar">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Physical Changes and Properties</button>
 <div class="content">
-	<div>Boiling Water at Reduced Temperatures - <a href=".\demos\boiling-water-at-reduced-temperature.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Coke vs Diet Coke - <a href=".\demos\coke-vs-diet-coke-density.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Floating Golf Ball - <a href=".\demos\floating-golf-ball.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>How Sweet It Is - Rainbow Density Column - <a href=".\demos\how-sweet-it-is-rainbow-density-column.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Liquid Nitrogen - <a href=".\demos\liquid-nitrogen.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Memory Metal - <a href=".\demos\memory-metal.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./physical.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Boiling Water at Reduced Temperatures - <a href=".\demos\boiling-water-at-reduced-temperature.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Boiling_Water_at_Reduced_Temperatures">Request This Demo</a></div>
+	<div class="demo">Coke vs Diet Coke - <a href=".\demos\coke-vs-diet-coke-density.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Coke_vs_Diet_Coke">Request This Demo</a></div>
+	<div class="demo">Floating Golf Ball - <a href=".\demos\floating-golf-ball.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Floating_Golf_Ball">Request This Demo</a></div>
+	<div class="demo">How Sweet It Is - Rainbow Density Column - <a href=".\demos\how-sweet-it-is-rainbow-density-column.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Rainbow_Density_Column">Request This Demo</a></div>
+	<div class="demo">Liquid Nitrogen - <a href=".\demos\liquid-nitrogen.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Liquid_Nitrogen">Request This Demo</a></div>
+	<div class="demo">Memory Metal - <a href=".\demos\memory-metal.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Memory_Metal">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Polymers</button>
 <div class="content">
-	<div>A Disappearing Coffee Cup - <a href=".\demos\disappearing-coffee-cup.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Hydrogen Bonding in Slime - <a href=".\demos\hydrogen-bonding-in-slime.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Instant Glop - <a href=".\demos\instant-glop.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Polyurethane - <a href=".\demos\polyurethane-helping-hand.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Preparation of Nylon - <a href=".\demos\preparation-of-nylon.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./polymers.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">A Disappearing Coffee Cup - <a href=".\demos\disappearing-coffee-cup.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Disappearing_Coffee_Cup">Request This Demo</a></div>
+	<div class="demo">Hydrogen Bonding in Slime - <a href=".\demos\hydrogen-bonding-in-slime.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Hydrogen_Bonding_in_Slime">Request This Demo</a></div>
+	<div class="demo">Instant Glop - <a href=".\demos\instant-glop.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Instant_Glop">Request This Demo</a></div>
+	<div class="demo">Polyurethane - <a href=".\demos\polyurethane-helping-hand.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Polyurethane_Helping_Hand">Request This Demo</a></div>
+	<div class="demo">Preparation of Nylon - <a href=".\demos\preparation-of-nylon.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Preparation_of_Nylon">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Reactions</button>
 <div class="content">
-	<div>The Blue Bottle - <a href=".\demos\blue-bottle.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Carol of the Bells - <a href=".\demos\carol-of-the-bells.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Dehydration of Sucrose (Black Snake) - <a href=".\demos\dehydration-of-sucrose.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Electrolysis of Water - <a href=".\demos\electrolysis-of-water.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Elephant's Toothpaste - <a href=".\demos\elephants-toothpaste.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Luminescent Elephant's Toothpaste - <a href=".\demos\luminescent-elephants-toothpaste.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Magic Genie - <a href=".\demos\magic-genie.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Magic Signs - <a href=".\demos\magic-signs.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Oscillating Clock Reaction - <a href=".\demos\oscillating-clock-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Oscillating Orange and Blue - <a href=".\demos\oscillating-orange-and-blue.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Silver Mirror - <a href=".\demos\silver-mirror.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Stop N Go Light - <a href=".\demos\stop-n-go-light.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./reactions.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">The Blue Bottle - <a href=".\demos\blue-bottle.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Blue_Bottle">Request This Demo</a></div>
+	<div class="demo">Carol of the Bells - <a href=".\demos\carol-of-the-bells.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Carol_of_the_Bells">Request This Demo</a></div>
+	<div class="demo">Dehydration of Sucrose (Black Snake) - <a href=".\demos\dehydration-of-sucrose.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Black_Snake">Request This Demo</a></div>
+	<div class="demo">Electrolysis of Water - <a href=".\demos\electrolysis-of-water.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Electrolysis_of_Water">Request This Demo</a></div>
+	<div class="demo">Elephant's Toothpaste - <a href=".\demos\elephants-toothpaste.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Elephants_Toothpaste">Request This Demo</a></div>
+	<div class="demo">Luminescent Elephant's Toothpaste - <a href=".\demos\luminescent-elephants-toothpaste.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Luminescent_Elephants_Toothpaste">Request This Demo</a></div>
+	<div class="demo">Magic Genie - <a href=".\demos\magic-genie.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Magic_Genie">Request This Demo</a></div>
+	<div class="demo">Magic Signs - <a href=".\demos\magic-signs.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Magic_Signs">Request This Demo</a></div>
+	<div class="demo">Oscillating Clock Reaction - <a href=".\demos\oscillating-clock-reaction.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Oscillating_Clock_Reaction">Request This Demo</a></div>
+	<div class="demo">Oscillating Orange and Blue - <a href=".\demos\oscillating-orange-and-blue.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Oscillating_Orange_and_Blue">Request This Demo</a></div>
+	<div class="demo">Silver Mirror - <a href=".\demos\silver-mirror.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Silver_Mirror">Request This Demo</a></div>
+	<div class="demo">Stop N Go Light - <a href=".\demos\stop-n-go-light.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Stop_N_Go_Light">Request This Demo</a></div>
 </div>
 
 <button type="button" class="collapsible column">Stoichiometry</button>
 <div class="content">
-	<div>Colorful Precipitates - <a href=".\demos\colorful-precipitates.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Moles and Molecules - <a href=".\demos\moles-and-molecules.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./stoichiometry.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Colorful Precipitates - <a href=".\demos\colorful-precipitates.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Colorful_Precipitates">Request This Demo</a></div>
+	<div class="demo">Moles and Molecules - <a href=".\demos\moles-and-molecules.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Moles_and_Molecules">Request This Demo</a></div>
 </div>
 	
 <button type="button" class="collapsible column">Transition Metals and Complex Ions</button>
 <div class="content">
-	<div>Different Colored Complexes with Different Number of Ligands - <a href=".\demos\different-colored-complexes-different-ligands.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Different Colored Complexes with the Same Ligands - <a href=".\demos\different-colored-complexes-same-ligands.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Different Colored Complxes - <a href=".\demos\different-colored-complexes.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<div>Green and Blue Copper Complexes - <a href=".\demos\green-and-blue-cu-complexes.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
-	<!-- <div>Oxidation States of Vanadium - <a href="" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div> -->
-	<div>Reduction of Chromium - <a href=".\demos\reduction-of-chromium.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+	<div class="content-link"><a href="./transition_metals.html" target="_blank">[Click here for detailed view]</a></div>
+	<div class="demo">Different Colored Complexes with Different Number of Ligands - <a href=".\demos\different-colored-complexes-different-ligands.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Different_Colored_Complexes_with_Different_Number_of_Ligands">Request This Demo</a></div>
+	<div class="demo">Different Colored Complexes with the Same Ligands - <a href=".\demos\different-colored-complexes-same-ligands.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Different_Colored_Complexes_with_the_Same_Ligands">Request This Demo</a></div>
+	<div class="demo">Different Colored Complexes - <a href=".\demos\different-colored-complexes.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Different_Colored_Complexes">Request This Demo</a></div>
+	<div class="demo">Green and Blue Copper Complexes - <a href=".\demos\green-and-blue-cu-complexes.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Green_and_Blue_Copper_Complexes">Request This Demo</a></div>
+	<!-- <div>Oxidation States of Vanadium - <a href="./request_page.html?demo-name0=" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=">Request This Demo</a></div> -->
+	<div class="demo">Reduction of Chromium - <a href=".\demos\reduction-of-chromium.pdf" target="_blank">View Demo Sheet</a> - <a href="./request_page.html?demo-name0=Reduction_of_Chromium">Request This Demo</a></div>
 </div></div>
 	
 </main>
