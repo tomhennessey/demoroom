@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Demo Request Form</title>
+<link href="../style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../site.js"></script>
+</head>
+<body>
+<header id="header">
+  <h1>Chemistry Demo Room</h1>
+	
+  <nav id="nav-bar">
+	<a class="nav-link" href="../index.html">Home</a>
+	<a class="nav-link" href="#top">Request a Demo</a>
+	<a class="nav-link" href="https://chemistry.illinois.edu/holiday-magic" target="_blank">Holiday Demo Show</a>
+	<a class="nav-link" href="../about_us.html">About Us</a>
+	<a class ="nav-link" href="../contact_us.html">Contact Us</a>
+  </nav>
+</header>
+	
+<div id="opening">To request a demo, please fill out the form below. For a custom demo or setup, please list the demo name as "custom" and describe what you would like in the additional information box.</div>
+
+<main class="main" id="request_main">
+
+  <form action="../process-form.php" method="post" id="request-form">
+    <label for="name">Enter your name: </label>
+	<input type="text" name="name" id="name" required><br><br>
+	  
+	<label for="email"> Enter your email: </label>
+	<input type="email" name="email" id="email" required><br><br>
+	 
+	<label for="demo-name">Enter the name of the demo you're requesting: </label>
+	<input type="text" name="demo-name0" id="demo-name0" required>
+	<input type="button" name="add" id="add" value="Add More +">  
+	<br>
+	<div id = "add-Area"></div>
+	<br><br>
+	  
+	<label for="dateTime">Enter the date and time you would like your demo prepared: </label>
+	<input type="datetime-local" name="dateTime" id="dateTime" required><br><br>
+	  
+	<label for="info">Enter any additional information here: </label><br>
+	<textarea name="info" id="info" rows="10" cols="100"></textarea><br><br>
+	  
+	<input type="submit">
+	  
+	 
+  </form>
+	
+</main>
+</body>
+	<script> valueFromUrl(name) </script>
+</html>
