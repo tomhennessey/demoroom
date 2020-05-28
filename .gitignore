@@ -1,4 +1,5 @@
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
-/demos
-/images
+/demos_text
+/_notes
+error_log
