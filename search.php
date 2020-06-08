@@ -26,8 +26,8 @@
 	<a class="nav-link" href="./index.html">Home</a>
 	<a class="nav-link" href="#top">Request a Demo</a>
 	<a class="nav-link" href="https://chemistry.illinois.edu/holiday-magic" target="_blank">Holiday Demo Show</a>
-	<a class="nav-link" href="./about_us.html">About Us</a>
-	<a class ="nav-link" href="./contact_us.html">Contact Us</a>
+	<a class="nav-link" href="html/about_us.html">About Us</a>
+	<a class ="nav-link" href="html/contact_us.html">Contact Us</a>
   </nav>
 	</header>
 	
