@@ -4,3 +4,7 @@
 /_notes
 error_log
 **/__pycache__
+**/venv
+**/migrations
+config.ini
+
