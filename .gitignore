@@ -3,5 +3,4 @@
 /demos_text
 /_notes
 error_log
-/demoroom_flask
-
+**/__pycache__
