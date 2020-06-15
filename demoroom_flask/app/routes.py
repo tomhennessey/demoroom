@@ -1,4 +1,5 @@
-from flask import render_template, flash, redirect
+from flask import render_template, flash, redirect, send_from_directory
+import os
 from app import app
 from app.forms import LoginForm
 
@@ -29,3 +30,7 @@ def about_us():
 @app.route('/contact_us')
 def contact_us():
     return render_template('contact_us.html', title='Contact Us')
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'img/favicon.ico', mimetype='image/vnd.microsoft.icon')
