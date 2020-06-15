@@ -1,5 +1,0 @@
-flask
-python-dotenv
-flask_migrate
-flask_sqlalchemy
-flask_wtf
