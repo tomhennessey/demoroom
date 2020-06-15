@@ -1,19 +1,16 @@
-<!doctype html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<link rel="icon" href="{{url_for('static', filename='img/favicon.ico')}}" type="image/x-icon" />
-		<link rel="shortcut icon" href="{{url_for('static', filename='img/favicon.ico')}}" type="image/x-icon" />
-		<title>UIUC Chemistry Demoroom</title>
-	</head>
-	<body>
-		<header id="header">
-			<h1>Chemistry Demo Room</h1>
-			<a href="{{url_for('index')}}">Home</a>
-			<a href="{{url_for('request_page')}}">Request a Demo</a>
-			<a href="https://chemistry.illinois.edu/holiday-magic" target="_blank">Holiday Demo Show</a>
-			<a href="{{url_for('about_us')}}">About Us</a>
-			<a href="{{url_for('contact_us')}}">Contact Us</a>
+{% extends 'bootstrap/base.html' %}
+
+{% block title %}
+	{% if title %}{{title}} - UIUC Chemistry Demoroom{% else %}{{_('UIUC Chemistry Dmeoroom')}} {% endif %}
+{% endblock title %}
+
+{% block navbar %}
+				<a href="{{url_for('index')}}">Home</a>
+				<a href="{{url_for('request_page')}}">Request a Demo</a>
+				<a href="https://chemistry.illinois.edu/holiday-magic" target="_blank">Holiday Demo Show</a>
+				<a href="{{url_for('about_us')}}">About Us</a>
+				<a href="{{url_for('contact_us')}}">Contact Us</a>
+{% endblock navbar %}
 		<hr>
 		{% with messages = get_flashed_messages() %}
 		{% if messages %}
@@ -25,5 +22,3 @@
 		{% endif %}
 		{% endwith %}
 		{% block content %}{% endblock %}
-	</body>
-</html>
