@@ -1,17 +1,17 @@
+<!doctype html>
 <html>
 	<head>
-		{% if title %}
-		<title>{{title}} - Microblog</title>
-		{% else %}
-		<title>Welcome to Microblog!</title>
-		{% endif %}
+	<meta charset="utf-8">
+		<title>UIUC Chemistry Demoroom</title>
 	</head>
 	<body>
-		<div>
-			Microblog: 
+		<header id="header">
+			<h1>Chemistry Demo Room</h1>
 			<a href="{{url_for('index')}}">Home</a>
-			<a href="{{url_for('login')}}">Login</a>
-		</div>
+			<a href="{{url_for('request_page')}}">Request a Demo</a>
+			<a href="https://chemistry.illinois.edu/holiday-magic" target="_blank">Holiday Demo Show</a>
+			<a href="{{url_for('about_us')}}">About Us</a>
+			<a href="{{url_for('contact_us')}}">Contact Us</a>
 		<hr>
 		{% with messages = get_flashed_messages() %}
 		{% if messages %}
@@ -25,4 +25,3 @@
 		{% block content %}{% endblock %}
 	</body>
 </html>
-
