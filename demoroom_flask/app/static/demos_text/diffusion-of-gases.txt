@@ -1,0 +1,32 @@
+                                       Diffusion of Gases
+Purpose
+   To demonstrate the relationship between molar mass and diffusion rate of a gas.
+Materials
+   long glass tube open at each end                 ring stand and clamp
+   HCl (conc)                                       ammonia (conc)
+   2 rubber stoppers (to fit tube, with no          cotton balls
+   holes)                                           2 petri dishes
+Procedure
+   1.     Clamp the tube horizontally on the ring stand.
+   2.     Fill petri dishes with NH3 and HCl (seperately) and add cotton balls.
+   3.     Take cotton ball from NH3 petri dish, place in end of tube and stopper. Fully cover
+          the Petri dish.
+   4.     Quickly do same with HCl cotton ball, place at opposite end of tube and stopper.
+   5.     Observe a white ring (ammonium chloride) form after a few minutes. It should be
+          closer to the side in which you place the ammonia cotton ball.
+Additional Information
+   1.     The results are only semi-quantitative due to air.
+   2.     Results do not follow Graham’s Law of Effusion because the gases are diffusing
+          through air.
+Questions for the Students
+   I.     What is the composition of the white ring which forms?
+   II.    Why doesn’t the ring form instantaneously (What are the velocities of NH3 and HCl?)
+   III.   Why doesn’t the ring form in the center of the tube?
+Disposal
+  1.      Any remaining solutions can be diluted and poured down the drain with excess water.
+  2.      The tube should be rinsed out in the hood with water, collecting the runoff in a large
+          beaker 1/3 filled with water.
+  3.      Make sure the whole tube is rinsed before cleaning in the sink.
+  4.      The solution in the beaker can be poured down the drain with excess water and the
+          cotton balls thrown in the trash.
+                                                                                         Gases 9

@@ -1,0 +1,38 @@
+                              Chemical Equilibrium: FeSCN2+
+Purpose
+   To demonstrate LeChatelier’s Principle.
+Materials
+   0.20 M Fe(NO3)3 ( lN 1 M HNO3                         0.002 M KSCN
+   Na2HPO4                                               0.20 M AgNO3
+   0.2 M HCl                                             3 petri dishes
+   overhead projector                                    Eyedropper
+Procedure
+   1. Cover the bottom of a petri dish with the KSCN solution.
+   2. Add a couple of drops of Fe(NO3)2 to the petri dish. Split the solution into three petri
+       dishes.
+   3. To one dish add a bit of solid KSCN; to another add a couple drops of Fe(NO3)2; use the
+       third as a standard. Notice that the two solutions get darker indicating that both reactants
+       are present in solution – neither is limiting!
+   4. To one of the petri dishes, add a few crystals Na2HPO4. Notice the red color disappear.
+   5. To a different Petri dish, add a few drops of AgNO3. Notice the red color disappear. To
+       this same dish, add a few drops of HCl. Note the formation of a white solid, and the re-
+       appearance of the red color.
+Additional Information
+   1.      The initial reaction is:
+          Fe3+ + SCN− ↔ FeSCN2+
+        (yellow) (colorless)        (red)
+   2.      Other reactions:
+           Fe3+ + HPO42− ↔ FeHPO4+
+           Ag+ + SCN− ↔ AgSCN
+           Ag+ + Cl− ↔ AgCl
+3.        The Ag+ reacts with the SCN- driving the initial reaction to the left. The Cl− then
+           reacts with the Ag+, which drive reaction b (in #2 above) to the left, producing more
+           SCN−. The SCN- reacts with the Fe3+, making more FeSCN2+.
+Additional Information
+   Waste should be collected in a properly labelled container with UI# 100937.
+                                                                                      Equilibrium 1
+
+
+Reference
+   DeCoste, Don. University of Illinois, Urbana-Champaign.
+                                                           Equilibrium 2

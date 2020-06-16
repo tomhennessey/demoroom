@@ -1,0 +1,36 @@
+                                        Autocatalysis
+Purpose
+       To demonstrate the phenomenon of autocatalysis.
+Materials
+       4 g potassium chlorate                         12.5 g sodium sulfite
+       5 mg bromophenol blue indicator                water
+       3 M sulfuric acid                              100 mL graduated cylinder
+       dropper                                        two 250 mL beakers
+Procedure
+   1.  Place 50 mL of water in a beaker.
+   2.  Add three solids to the water and dissolve. Do not mix solids before addition to water.
+   3.  In the second beaker, add 4 mL of 3 M sulfuric acid to 50 mL of water.
+   4.  Add the solution from the second beaker to the first beaker, stirring constantly. The
+       solution should be blue-violet.
+   5. Fill a 100 mL graduated cylinder with the solution.
+   6. Add two droppers full of the 3 M sulfuric acid to the top of the liquid in the graduated
+       cylinder. A yellow color should appear, and over the course of several minutes should
+       move down the graduated cylinder.
+Additional Information
+   1. The reaction is:
+               ClO3−(aq) + 3 HSO3− (aq) → Cl− (aq) + 3 SO42− (aq) + 3 H+(aq)
+   2. The H+ is produced by and acts as a catalyst for this reaction. The indicator is yellow in
+       highly acidic solutions. The solution is initially blue due to the bisulfite-sulfite buffering
+       system (pH about 6.5 to 7.0).
+   3. 3 M H2SO4 is made by adding 5 mL concentrated sulfuric acid to 18 mL distilled water.
+   4. Point out that the acid simply starts the reaction. If it were the catalyst, the entire solution
+       would turn yellow immediately.
+Questions for the Students
+   1. In this reaction, what is oxidized? What is reduced?
+   2. What happens at the interface of the blue and yellow solutions?
+Disposal
+       Solutions can be poured down the drain with excess water.
+Reference
+       Summerlin, L. & Ealy J. Chemical Demonstrations: A Sourcebook for Teachers, Volume
+       1, Second Edition, 1988.
+                                                                        Kinetics/Thermodynamics 3

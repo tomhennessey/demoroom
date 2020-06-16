@@ -1,0 +1,34 @@
+                      Conductivity of Solutions and Solids
+Purpose
+   To demonstrate that by passing electric current through an ionic solution, a light will
+   glow, but by passing electric current through the solid form of the same substance, it
+   will not glow.
+Materials
+   U-tube made from Tygon Tubing                     Ammonium chloride
+   Clamp                                             Dry ice
+   Conductivity apparatus                            500 mL beaker
+Procedure
+   1. Half fill a U-tube with an ammonium chloride solution (dissolve 10 grams of
+       NH4Cl (s) in 100 mL of solution).
+   2. Clamp the U-tube to the conductivity apparatus.
+   3. Place an electrode in each end of the U-tube. The light will glow brightly.
+   4. Place the U-tube in a slurry of dry ice and acetone.
+   5. Repeat the conductivity test. Notice that the bulb will eventually cease to glow as
+       the temperature drops and the solution freezes.
+Additional Information
+   1. The ammonium and chloride ions in solutions will conduct a current, and the bulb
+       will glow:
+       NH4Cl (aq) → NH4+ (aq) + Cl- (aq)
+   2. When the solution is frozen by the dry ice, the ions are fixed in position and are
+       unable to conduct a current. Thus, the bulb will cease to glow.
+   3. If a U-tube is not available, bend a piece of glass tubing or connect two pieces and
+       connect them with a short piece of tygon tubing.
+Questions for the Students
+   1. Which ion carries the negative charge through the solution?
+   2. Would molten NaCl conduct electricity?
+Disposal
+   Solution can be poured down the drain with excess water.
+Reference
+   Summerlin, L.R., Borgford, C.L., & Ealy, J.B. Chemical Demonstrations, Volume II,
+   1987.
+                                                                        Solubility and Solutions 7

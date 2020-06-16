@@ -1,0 +1,42 @@
+                                     Electrolysis of Water
+Purpose
+   To show the electrolysis of water, the ratio of H2 and O2 produced and the pH of the
+   solutions at the electrodes.
+Materials
+   electrolysis apparatus or ring stand                  0.1 M K2SO4 or Na2SO4
+   electric leads                                        universal indicator
+   power source (battery)
+Procedure
+1.     Set-up the electrolysis apparatus as shown:
+   2.      Add solution to apparatus. Be sure to open stopcocks before filling. Fill to remove
+           all the bubbles from both side columns. Close stopcocks.
+   3.      Be sure that the central reservoir is not completely full.
+   4.      Add several drops of universal indicator.
+   5.      Attach leads to power source. Allow the apparatus to run for 10-15 minutes to
+           produce plenty of H2 and O2 and show indicator changes.
+                                                                                      Reactions 5
+
+
+Additional Information
+   1.      H2 and O2 gases may be collected in inverted test tubes. The H2 can be ignited with a
+           burning splint to produce a whistling sound. If a glowing splint is inserted into the O2
+           tube, it will burst into flame.
+   2.      The reactions are:
+               4 H2O + 4 e−         → 2 H2 +     4 OH−
+               2 H2O                → O2    +    4 H+ +     4 e−
+           __________________________________________________
+               6 H2O                → 2 H2 +     O2     +   4 (H++ OH−)
+           Net
+               2 H2O → 2 H2 + O2
+Questions for the Students
+   1.      What are the two gases?
+   2.      Which gas is at which electrode?
+   3.      Write a balanced equation for electrolysis of water.
+Disposal
+      The solution in the apparatus can be re-used. Once the demo is complete, return the
+      solution to the original container.
+      Solution in container may grow mold. If this happens, simply make a fresh batch of the
+      solution.
+Reference
+       University of Illinois, Urbana-Champaign.
+Reactions 6

@@ -1,0 +1,28 @@
+                                         Silver Tree
+Purpose
+   To demonstrate the basic properties of an electrochemical cell.
+Materials
+   250 to 600 mL beaker                                0.1 M AgNO3
+   copper wire
+Procedure
+                                                                   Electrochemistry 3
+
+
+1.     Bend the copper wire into desired shape (tree, conical helix, etc.).
+2.     Place in beaker of appropriate size or hang from a stir rod placed across the top.
+3.     Pour the AgNO3 solution into the beaker until the tree is covered.
+4.     Silver crystals will form on the wire after several minutes, and the solution will start to
+       turn blue. More crystals will form and give a “fuzzy” appearance over the course of the
+       lecture.
+Additional Information
+1.              The half-reactions are:
+                                                                             ℰ(V)
+                Ag+ + e− → Ag                                  0.80
+                Cu2+ + 2 e− → Cu                      0.34
+                The overall reaction is:
+                Cu(s) + 2 Ag+ → Cu2+ + Ag(s)          ℰcell = 0.46V
+2.     More concentrated solutions of AgNO3 can be used for a more dramatic effect, however
+       AgNO3 is expensive and hard to dispose of.
+Reference
+   University of Illinois, Urbana-Champaign.
+                                                                                Electrochemistry 3

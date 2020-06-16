@@ -1,0 +1,61 @@
+                          Seeing the Light – Titration Reactions
+Purpose
+      To demonstrate conductivity and the titration of a strong acid with a strong base yielding
+      a precipitate
+Materials
+      conductivity apparatus                              0.01 M H2SO4
+               buret / clamp                                  0.02 M Ba(OH)2∙8H2O
+               250 mL beaker                                  ringstand / clamp
+               magnetic stirrer / bar                         phenolphthalein
+Procedure
+1.    Prepare 0.01 M H2SO4. Mix 56 mL of concentrated sulfuric acid with distilled water and
+      bring the volume to one liter. This solution is 1.0 M. Use 10.0 mL of the 1.0 M solution
+      and mix with distilled water to bring to the volume to one liter. This solution is 0.01 M
+      H2SO4.
+2.    Prepare 0.02 M Ba(OH)2 8H2O. Dissolve 1.6 gram of hydrated barium hydroxide in
+      distilled water and bring the volume to one liter. Filter the solution if it appears cloudy.
+3.    Check the conductivity of both solutions by using about 50 mL in a beaker with the
+      conductivity apparatus.
+4.             Fill a clean, dry 50 mL buret with the base solution.
+5.    Pour out 25 mL of the acid into the 250 mL beaker and add 8-10 drops of
+      phenolphthalein.
+6.    Place the beaker on a magnetic stirrer. Place the electrodes of the apparatus in the beaker.
+      Be sure that the electrodes do not hit the stirring bar.
+                                                                                      Acids/Bases 6
+
+
+7.             Fix the buret so that a slow constant flow of the base enters the beaker.
+8.             Stress to students the change of light intensity and the color of the solution.
+9.     Continue titration until the bulb goes out. Further titrate. The solution turns pink, the
+       bulb goes back on with increased intensity.
+Additional Information
+1.     Sulfuric acid is a strong acid and barium hydroxide solution is a strong base. They are
+       both excellent conductors of electricity, due to the presence of their respective ions. Thus
+       the bulb glows brightly in the presence of both. When the two solutions are mixed
+       together, however, the brightness of the light steadily decreases. This decrease is caused
+       by the formation of the white barium sulfate precipitate. Remember, all ionic salts do not
+       readily dissociate.
+2.     At the end point of this reaction, the solution turns pink due to the presence of the
+       indicator.
+3.     As more Ba(OH)2 solution is added, an excess of ions is again produced, allowing the
+       bulb to glow once more.
+4.             Back titrate with the acid to find the endpoint again.
+Additional Information
+Waste should be collected in a labelled container with UI# 203462.
+Questions for the Students
+                                                                                       Acids/Bases 6
+
+
+1.    What are the major species in the beaker before the titration?
+2.    Should the solution in the beaker conduct electricity? Explain.
+3.    What are the major species in the buret?
+4.    Should this solution conduct electricity? Explain?
+5.    What reaction is taking place during the titration?
+6.    Why did the light go out?
+7.    What are the major species in the solution now?
+8.    Why did the phenolphthalein turn pink after the light was out?
+9.    Why did the light go back on?
+10.   What are the major species in the solution now?
+Reference
+ICE, Chemical Demonstrations Workshop, University of Arizona, 1985
+                                                                      Acids/Bases 6

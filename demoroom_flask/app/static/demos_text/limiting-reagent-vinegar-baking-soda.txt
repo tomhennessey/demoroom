@@ -1,0 +1,51 @@
+                    Limiting Reagent (Baking Soda with Vinegar)
+Purpose
+      To demonstrate the concept of limiting reactants
+Materials
+      Vinegar                                        500 mL Erlenmeyer flasks
+      Baking Soda                                    Balloons
+Procedure
+   1. Pour 150 mL of vinegar into each of the Erlenmeyer flasks.
+   2. Loosen the balloons that are going to be used by stretching them out (this will make it
+      easier for the balloons to expand during the reaction).
+   3. Place the following amounts of baking soda into the balloons and then attach the balloons
+      to the appropriate flask without letting the baking soda spill into the vinegar.
+    Experiment     Baking soda     Baking soda        Vinegar         Vinegar       Limiting
+     number          mass (g)        moles         volume (mL)         moles         reactant
+        1               3.3            .039             150            .1248       Baking soda
+        2               5.7           .0678             150            .1248       Baking soda
+        3              10.5           .1248             150            .1248           Equal
+        4              21.0           .2502             150            .1248         Vinegar
+        5              31.8           .3786             150            .1248         Vinegar
+   4. Dump the baking soda into flask 1.
+   5. Ask the students what is going to happen when you dump the baking soda into flask 2.
+   6. Dump the baking soda into flask 2. You may need to support the balloon until the
+      reaction completes.
+                                                             Reactions: Limiting Reactants 63
+
+
+   7. Repeat this process for the other three flasks.
+   8. For flasks 3-5, the reaction will result in an overflow of liquid into the balloon. After the
+       most vigorous portion of the reaction, gently hold up the balloon and allow the contents
+       to drain back into the reaction flask.
+Alternate
+      This demo can be performed using Mg and HCl in place of vinegar/baking soda, however
+   the HCl can bubble over into the balloon, forming holes in the latex and causing the acid to
+   spill out.
+Discussion
+       This demonstration can be used to illustrate the concept of limiting reagents.
+   When vinegar (a dilute solution of acetic acid: CH3COOH) and baking soda (NaHCO3) react,
+   carbon dioxide, a gas, is produced:
+                    NaHCO3 (aq) + CH3COOH(aq) → CO2 (g) + H2O(l) + CH3COONa(aq)
+               (baking soda)       (vinegar)
+         In the first two flasks the limiting reagent is the baking soda, so as you add more baking
+   soda the balloon gets bigger. The third flask contains a 1:1 molar ratio of vinegar and baking
+   soda. In the fourth and fifth flasks the limiting reagent is now the vinegar, so the balloons
+   remain the size as the balloon on the third flask.
+Disposal
+    All solutions can be poured down the drain with excess water and balloons can be thrown
+   away.
+Reference
+   Dr. Feldwinn Demo Library, UCSB:
+   http://www.chem.ucsb.edu/~feldwinn/DemoLibrary/DemoPDFs/Demo010.pdf
+Reactions: Limiting Reactants 64

@@ -1,0 +1,48 @@
+                                      Corn Syrup Polarimeter
+Purpose:
+       To demonstrate the transmission of polarized light through different liquids showing that
+       it depends upon the depth and the contents of the liquid.
+Materials:
+       Light corn syrup                                         Tall beakers or crystallizing dishes
+       Water                                                    Overhead projector
+       2 polarizing filters                                     Poster board
+Procedure:
+   1) Cut a hole slightly smaller than the diameter of the beaker (or dish) on a piece of poster
+       board (or manila folder). Cover the surface of the overhead projector with this.
+   2) Fill one beaker with water and the other with corn syrup. Place these on the overhead
+       projector, turn the light on and observe how white light transmits through each liquid.
+   3) Starting with the water beaker, place polarizing filters on the top and bottom of the beaker
+       and place over the hole. Rotate the top filter and note how the only changes to the projection
+       are the dimming and brightening of the light.
+   4) Do the same for the corn syrup beaker and note the changes in color that occur as the top
+       filter is rotated.
+Additional Information:
+       Ordinary light is unpolarized, meaning it vibrates randomly in numerous planes. A
+       polarizing filter selectively transmits light in only one plane giving what is known as plane-
+                                                                          Liquids, Solids, and Colloids 9
+
+
+      polarized light. When two filters are used the amount of light transmitted depends upon the
+      alignment of the axes of the filters relative to one another. If the axes are parallel, then
+      almost all of the light, which passes through the first filter, also passes through the second
+      filter. However, if the axes of the filters are perpendicular, no light is transmitted through
+      the second filter.
+      Certain molecules can also cause plane polarized light to rotate and they are referred to as
+      optically active. Molecules, which are chiral, possess this ability and are said to be optically
+      active. Compounds that rotate the plane of polarized light to the right are dextrorotatory
+      (+) and those which rotate the plane of polarized are levorotatory (-). Since water is achiral,
+      no difference is observed with or without the polarizing filter. However, corn syrup is a
+      solution placed in between two polarizing filters; the light passing through the solution is
+      rotated and slowed by the solution. This is observed by the appearance of different colors.
+      This effect can be changed by diluting the solution. This not only changes the concentration
+      of glucose but also increases the path length for light to travel through.
+Disposal:
+      Corn syrup can be reused
+References:
+      https://projects.ncsu.edu/project/chemistrydemos/Organic/Polarimeter.pdf
+      Shakhashiri, B. Z. In Chemical Demonstrations: A Handbook for Teachers of Chemistry;
+      The University of Wisconsin Press: 1989; Vol. 3, p 386-389
+                                                                          Liquids, Solids, and Colloids 9
+
+
+Liquids, Solids, and Colloids 9

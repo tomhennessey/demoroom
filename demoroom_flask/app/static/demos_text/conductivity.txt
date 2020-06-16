@@ -1,0 +1,40 @@
+                                         Conductivity
+Purpose
+     To demonstrate the conductivity of a variety of substances in solution. To classify
+     substances as weak, strong or nonelectrolytes.
+Materials
+     Conductivity apparatus                          NaCl
+     Small beakers                                   Glacial acetic acid
+     Distilled water/wash bottle                     1 M HC2H3O2
+     Sugar                                           1 M HCl
+Procedure
+   1. Place distilled water in a beaker. Ask for prediction of conductivity. Test with apparatus.
+   2. Place tap water in a beaker. Test for conductivity.
+   3. Add sugar to distilled water. Test for conductivity.
+   4. Begin with new beaker of distilled water. Add NaCl. Test.
+   5. Test beaker of the acids in this order
+           a) HCl
+           b) 1 M HC2H3O2
+           c) Glacial acetic acid
+   6. Dilute glacial acetic acid by half (double the volume). Test conductivity.
+   7. Repeat step 6. Test conductivity.
+Additional Information
+   1. Be sure to clean electrodes well in distilled water between tests.
+   2. Be careful with electrodes – shock hazard!!!
+Questions for the Students
+   1. Why doesn’t distilled water conduct electricity?
+                                                                         Solubility and Solutions 5
+
+
+   2. Why does tap water conduct?
+   3. What must be present for conductivity to occur?
+   4. Why is 1 M HCl such a strong electrolyte? Draw a molecular picture.
+   5. Why is 1 M HC2H3O2 a weak electrolyte? Draw a molecular picture. How is it different
+       from HCl?
+   6. Why is glacial acetic acid a nonelectrolyte?
+   7. Why does it begin to conduct when we add distilled water?
+Disposal
+       Solutions can be poured down the drain with excess water.
+Reference
+       University of Illinois, Urbana-Champaign.
+Solubility and Solutions 6

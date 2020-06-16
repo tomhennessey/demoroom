@@ -1,0 +1,42 @@
+                           Iodine Clock Reaction (simplified/new)
+Purpose
+   To demonstrate the relationship between a concentration and the rate of a chemical reaction.
+Materials
+   potassium iodate solution (.2M, 175 mL)           400 mL beaker (3)
+   Starch Solution (2%, 190 mL)                      10 mL graduated cylinder
+   Sodium metabisulfite (3.8g)                       50 mL graduated cylinder
+   Deionized water                                   100 mL graduated cylinder
+   250 mL beaker (3)
+Procedure
+   Preparation – best to prepare the day before
+   1. Prepare 100 mL of a 0.2M sodium metabisulfite solution by dissolving 3.8g in 100 mL of
+       deionized water.
+   2. Prepare a 2% starch solution by adding 20g starch to 100 mL of deionized water. Pour
+       starch paste into 1L of boiling water while stirring. Allow solution to cool (4-5 hours).
+   3. Prepare a series of solutions called Solution A according to the following chart, using
+       400 mL beakers:
+                                     Beaker 1A              Beaker 2A             Beaker 3A
+            KIO3 (0.2M)                50 mL                  100 mL                 25 mL
+           Deionized Water            150 mL                  100 mL                175 mL
+   4. Prepare 3 identical Solution B solutions by mixing 10 mL of 0.2M sodium metabisulfite
+       solution, 30 mL of the starch solution, and 40 mL of deionized water in 250 mL beakers.
+   Presentation
+   1.      All at the same time:
+        a.     Pour solution B into Solution 1A. Stir.
+        b.     Pour solution B into Solution 2A. Stir.
+        c.     Pour solution B into Solution 3A. Stir.
+   2.      Observe the differences in time it takes each of the solutions to change color.
+Additional Information
+   1.      Mechanism for this reaction is not well understood.
+                                                               Kinetics/Thermodynamics 7
+
+
+Questions for the Students
+   1.      Why is the amount of water changed in each trial?
+   2.      Explain how concentration affects the rate at a molecular level.
+   3.     What would happen if B varied instead of A?
+Disposal
+   Solutions should be placed in a properly labeled waste container with UI# 202140.
+Reference
+   Summerlin, L. and Ealy, J. Chemical Demonstrations: A Sourcebook for Teachers, 1985.
+Kinetics/Thermodynamics 8

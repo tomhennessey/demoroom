@@ -1,0 +1,39 @@
+                                Chemical Casserole
+Purpose
+   To show different types of reactions (precipitation reaction and complex ion
+   formation)
+Materials
+   6 beakers                                         17M NH4OH
+   1M AgNO3                                          1M KBr
+   0.1M NaOH                                         1M Na2S2O3
+   1M NaCl                                           1M KI
+Procedure
+   1) Mix 5mL 1M AgNO3 and 20mL H2O
+   2) Fill each beaker with one of the following solution of the given volume:
+          a. 10mL of 1M KI
+          b. 10mL of 0.1M NaOH
+          c. 10mL of 1M NaCl
+          d. 15mL of 17m NH4OH
+          e. 10mL of 1M KBr
+          f. 20mL of 1M Na2S2O3
+   3) Add just enough of the AgNO3 solution into each beaker as to allow reactions to
+       occur. Solutions should be mixed in the following order:
+          a. 10mL 0.1M NaOH → AgOH (brown)
+          b. 10mL 1M NaCl → AgCl (white)
+          c. 15mL 17m NH4OH → Ag(NH3)2+ (clear)
+          d. 10mL 1M KBr → AgBr (off-white)
+          e. 20mL 1M Na2S2O3 → Ag(S2O3)23- (clear)
+          f. 10mL 1M KI → AgI (yellow)
+Additional Information
+   1) Possible reactions can involve cyanide and sulfide ions however CN- is too
+       hazardous and S2- is too smelly
+                                                                      Solubility and Solutions 15
+
+
+   2) At any point, the demonstration may be stopped and equilibrium constants used to
+       explain an observation or to predict an upcoming change
+   3) Just enough solution can be added at each point to create or dissolve the
+       precipitate
+Disposal
+       Solutions should be placed in properly labeled waste containers with UI# 100963.
+Solubility and Solutions 16

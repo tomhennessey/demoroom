@@ -1,0 +1,43 @@
+     Different Colored Complexes with Different Number of Ligands
+Purpose
+       To demonstrate that the number of ligands (the same ligands) can alter the color
+       of coordination complexes.
+Materials
+       1M NiCl2                                          Four 400 ml beakers
+       Ethylenediamine (99%)                             Stirring Rods
+Procedure
+   1. Add 20mL of 1M NiCl2 to Beaker 1, Beaker 2, Beaker 3, and Beaker 4.
+   2. Dilute each beaker with 280mL distilled water to yield a 300mL solution.
+   3. Beaker 2:
+            add ~1.0 mL of ethylenediamine. Stir the mixture to view a light blue color.
+            If still green, add drops of ethylenediamine until light blue color appears.
+   4. Beaker 3:
+            add ~2.5 mL of ethylenediamine. Stir the mixture and a royal blue color
+            should appear. If still green, add drops of ethylenediamine as done for
+            beaker 2.
+   5. Beaker 4:
+            add ~4mL of ethylenediamine. Stir the mixture and a violet color should
+            appear. If not, keep adding ethylenediamine as done for beaker 2 and 3.
+Additional Information
+    1. The reactions are:
+       NiCl2 + 6 H2O → Ni(H2O)62+ + 2Cl-                                 (colorless to green)
+       Ni(H2O)62+(aq) + en → [Ni(H2O)4(en)]2+(aq) + 2H2O(l)             (green to light blue)
+       Ni(H2O)62+(aq) + 2en → [Ni(H2O)2(en)2]2+(aq) + 4H2O(l)          (green to royal blue)
+       Ni(H2O)62+(aq) + 3en → [Ni(en)3]2+(aq) + 6H2O(l)                     (green to violet)
+                                                               Transition Metals / Complex Ions 3
+
+
+Safety
+        Ethylenediamine is a corrosive, toxic, flammable liquid. Inhalation may be fatal
+as a result of spasm, inflammation, and swelling of air passages. Can cause damage to
+kidneys, liver and stomach pains, vomiting, and diarrhea. Wear safety goggles and
+disposable gloves. If you prepare the chemicals for this demo, WORK IN THE HOOD
+when pouring ethylenediamine into 10 mL beaker.
+Disposal
+     1. All of the waste from this experiment should go into the properly labeled waste
+         containers with UI# 100944.
+     2. Rinse all glassware with acetone first, then wash with regular soap and water.
+Reference
+        L.R. Summerlin, C.L. Borgford, and J.B. Ealy, 1987, Chemical Demonstrations:
+A Source Book for Teachers, vol. 2, pp 73-74.
+Transition Metals / Complex Ions 4

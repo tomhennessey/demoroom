@@ -1,0 +1,39 @@
+                                          Galvanic Cells
+Purpose
+   To show the basic principles of a galvanic cell.
+Materials
+   copper electrode (plate)                           1 M ZnSO4
+   zinc electrode (plate)                             1 M CuSO4
+   2 250 mL beakers                                   Clear voltmeter for overhead projector
+   Salt bridge made of kimwipe soaked in
+   saturated KNO3
+Procedure
+    1.      Set up the cell as in the picture below with the voltmeter on the overhead projector.
+    2.         Properly assembled the voltmeter should read approximately 1.10 V.
+Additional Information
+    1.      Other solutions and electrodes can be substituted.
+                                                                        Electrochemistry 1
+
+
+     2.     The half-reactions are:
+                                                            ℰ°(V)
+               Zn2+ + 2 e− → Zn                             −0.76
+               Cu2+ + 2 e− → Cu                             0.34
+               The overall reaction is:
+                                                                           ℰcell
+               Zn + Cu2+ → Cu + Zn2+                 1.10 V
+      3.    Application of the Nernst Equation can be shown by changing the concentration of
+             the solutions.
+                                 0.0592
+               ℰcell = E ocell =        at 25°C
+                                    n
+Questions for the Students
+      1.       Which is the anode and cathode?
+      2.       Which direction do the electrons flow?
+      3.       What is the purpose of the salt bridge?
+Disposal
+   Solutions should be placed in properly labeled storage containers. Electrodes can be cleaned
+   with 1M HCl.
+Reference
+    University of Illinois, Urbana-Champaign.
+Electrochemistry 2

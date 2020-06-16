@@ -1,0 +1,39 @@
+                                   Moles and Molecules
+Purpose
+   To compare the amounts of several substances using moles and number of molecules.
+Materials
+   four 500 mL beakers                                  sulfur
+   sugar                                                water
+Procedure
+   Preparation
+       1.     Place the following in labeled separate beakers:
+              a. 18 mL water → 1 mol H2O
+              b. 342 g sugar → 1 mol sugar
+              c. 256 g sulfur → 1 mol sulfur
+              d. 342 mL water → 342 g H2O
+Presentation
+       1.     Show the students the beakers each containing 1 mole.
+                      a. Note differences in mass and volume.
+                      b. Note sameness in number of molecules (6.022 × 1023 in each case).
+       2.     Now use beaker containing sugar and one containing 342 g H2O.
+                      a. Note same mass.
+                      b. Note different number of molecules.
+Additional Information
+       1.     In the beakers containing the same mass the sugar contains 6.022 × 1023
+              molecules while the water contains 19 (6.022 × 1023) = 1.14 × 1025 molecules
+              of water.
+Questions for the Students
+       1.     Write formulas for each substance.
+       2.     In the first comparison why are the mass and volume so different if the number of
+              molecules are the same?
+       3.     In the second comparison how many molecules of water are in the beaker?
+                                                                                Stoichiometry 3
+
+
+        4.     What is the ratio of molecules in the sugar beaker to molecules in the water
+               beaker? How does this compare to the ratio of moles from sugar to water?
+Disposal
+   Chemicals can be reused for the demo in the future.
+Reference
+   Humphreys, D. Demonstrating Chemistry, 1983.
+Stoichiometry 4

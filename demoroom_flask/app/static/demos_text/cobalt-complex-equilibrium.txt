@@ -1,0 +1,45 @@
+                                Cobalt Complex Equilibrium
+                         Temperature and Concentration Effects:
+Purpose
+   To demonstrate the shift in equilibrium caused by a change of temperature and a change in
+   concentration.
+Materials
+   0.4 M CoCl2 (5.2g/100 mL H2O)                        hot plate
+   0.2 M CoCl2 (2.6g/100 mL H2O)                        ice bath
+    0.1 M AgNO3 (1.7g/100 mL H2O)                       2 Deep Petri dishes
+   concentrated. HCl                                    distilled water
+   250 mL beaker                                        dropper (2)
+   100 mL beakers (4)
+Procedure
+ Temperature effects
+   I.      Place 100 mL 0.4 M CoCl2 in 250 mL beaker
+   II.     Heat the solution in a flask until it turns blue.
+   III.    Fill a large test tube with the blue solution.
+   IV.     Immerse lower half of tube in an ice-salt bath (-18 C).
+   V.      Note the bottom half of solution turns pink.
+ Concentration Effects
+   1. Place 20 mL 0.2 M CoCl2 in 100 mL beaker. Add 40 mL conc HCl. Note blue color.
+   2. Place 2 Deep Petri dishes on overhead projector. Add CoCl2 solution from 1 to each.
+           a. To Petri #1 add distilled water until color changes to clear.
+           b. To Petri #2 add AgNO3 drop wise until precipitate forms.
+                         Note pink color of solution.
+Additional Information
+   1. The equilibrium is
+        heat + [Co(H2O)6]2+(aq) + 4 Cl−(aq) ⇌ [CoCl4]2−(aq) + 6 H2O(l)
+                 pink                             blue
+                                                                               Equilibrium 3
+
+
+   2. Temperature effects
+          a. Heat causes shift in equilibrium to products
+          b. Cooling shifts equilibrium to reactants
+   3. Concentration effects
+         a. Excess Cl− causes formation of a more blue complex (tetrachlorocobalt (II))
+         b. excess H2O shifts equilibrium to pink complex (hexaaquocobalt (II))
+         c. Silver nitrate removes Cl− (forming Ag Cl) causing equilibrium to shift toward the
+         pink complex.
+Disposal
+   Solutions should be placed in properly labeled waste container with UI# 96482.
+Reference
+   Summerlin and Ealey, Chemical Demonstrations
+Equilibrium 4

@@ -1,0 +1,52 @@
+                                             Luminol
+Purpose
+   To demonstrate a chemical reaction that produces energy in the form of light.
+Materials
+   ring stand / clamp                                  sodium carbonate
+   buret clamp                                         luminol
+   glass funnel                                        ammonium carbonate anhydrous
+   two 1000 mL flasks                                  3% H2O2 (store bought)
+   coiled condenser                                    CuSO4 • 5 H2O
+   500 mL flask
+           Solution A: To 500 mL of distilled water add:
+                 4.0 grams of anhydrous sodium carbonate
+                 0.2 grams of luminol
+                 24 grams of sodium bicarbonate
+                 0.42 grams anhydrous ammonium carbonate
+                 0.4 grams cupric sulfate pentahydrate
+                Stir until all chemicals dissolve and add enough water to make one Liter.
+          Solution B: Add 50 mL of 3% hydrogen peroxide with enough distilled water to make
+                one Liter. Note: Solution B should be made fresh
+Procedure
+   1.      Attach a coiled condenser to a rings stand above a 500 mL flask.
+   2.      Secure a glass funnel so that it will pour into the condenser.
+   3.      Turn off the lights and pour Solutions A and B simultaneously into the glass funnel.
+   4.      Verify that the light produced is not accompanied by heat.
+Additional Information
+   1.      As a substitute for the coiled condenser, clamped tygon tubing coiled about a ring
+           stand can be used.
+   2.      Variation: wearing gloves, soak a piece of cotton in about 50 mL of Solution A.
+           Immerse the cotton in about 50 mL of Solution B and wring out the cotton. In the dark
+           the cotton ball will glow and “drip fire.”
+                                                                                       Organic 3
+
+
+   3.      Luminol = 5-amino-2,3-dihydrophthalazine-1,4-diome.
+   4.      The active ingredient (glowing) is the aminophthalate ion.
+   5.      The chemiluminescent reaction of luminol oxidation is represented by:
+                O                                              O
+                                                                     -
+                    N   H                                          O
+                                     - o                                     O + N
+                             + 2 O H                                 -+ 2 H
+                                         xi
+                                          d a
+                                            tion
+                                                                            2    2
+                    N   H                                          O
+         NH 2O                                         N H 2O
+Disposal
+   Solutions should be placed in proper waste container and labeled.
+Reference
+   Shakharshiri, Bassam. Chemical Demonstrations, Volume I, 1983.
+Organic 4

@@ -1,0 +1,53 @@
+                                    Stop-‘N-Go Light
+Purpose
+       To introduce oxidation-reduction reactions with a dynamic and colorful
+       demonstration that can easily be repeated.
+Materials
+       Dextrose Solution (0.133M, 100mL)
+       Indigo Carmine Solution (1% aqueous, 10mL)
+       Sodium Hydroxide solution (1.0M, 100mL)
+       500mL Erlenmeyer flask
+       Rubber stopper (without hole)
+Procedure
+   1. 0.133M Dextrose stock solution- add 23.96g Dextrose, Anhydrous to 1L of water.
+       Mix until homogenous.
+   2. 1% aqueous Indigo Carmine stock solution- add 10.0g Indigo Carmine to a 1L
+       beaker containing 500mL of water. Then fill the beaker to the 1L mark with
+       water. Indigo Carmine solution has a limited shelf life (6-12 months). If the
+       solution is not royal blue, the solution is no longer good and the reaction will not
+       work.
+   3. Place 100mL of the dextrose solution and 100mL of the sodium hydroxide
+       solution into an Erlenmeyer flask.
+   4. Add 10mL of the Indigo Carmine indicator solution. Stopper flask tightly.
+   5. Let the solution sit and become fully reduced (amber).
+   6. Shake the flask to obtain all the colors.
+Additional Information
+   1. Indigo Carmine is a redox indicator, which is easily reduced by the alkaline sugar.
+       It takes on an amber yellow color in its fully reduced form.
+   2. The indicator becomes red colored when the amber colored form is agitated, due
+       to the oxygen which partially oxidizes it. When it is further agitated, it becomes
+       completely oxidized and turns green.
+                                                             Reactions: Oxidation/Reduction 23
+
+
+    3. as the solution sits, most of the available dissolved oxygen is used up, so the
+       alkaline sugar will slowly reduce the indicator back to its amber colored form.
+    4. The redox reaction will cease after about 10 or 15 cycles.
+    5. the process can be repeated if the stopper is removed, enabling fresh air to enter
+       the flask.
+    6. Solution will last approximately 20 minutes. Colors fade with time.
+    7. Indigo Carmine solution has a limited shelf life.
+Questions for the Students
+    1. Why does the color of the solution change from amber to red when agitated?
+    2. Why does more agitation cause color change?
+    3. How is it possible that the reaction can be done multiple times in a row?
+    4. Why does the introduction if fresh air help enable the process to occur again once
+       the reaction ceases?
+Safety
+       Indigo Carmine indicator is toxic be ingestion. The Sodium hydroxide solution is
+a corrosive liquid and can cause skin burns.
+Disposal
+       Stop-‘N-Go light solution may be rinsed down the drain with excess water.
+Reference
+       1996 Flinn Scientific Publication Vol. 96-2
+Reactions: Oxidation/Reduction 24

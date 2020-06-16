@@ -1,0 +1,26 @@
+                           Green and Blue Copper Complexes
+Purpose
+   To demonstrate that different ligands exhibit different colors in a coordination complex.
+Materials
+   0.2M CuSO4 • 5 H2O solution (50g/L)               Large graduated cylinder
+   Concentrated HCl                                  Pipet
+   Concentrated ammonia
+Procedure
+   1. Fill the graduated cylinder about one-fourth with the copper sulfate solution.
+   2. Add the HCl until a pale green solution is formed.
+   3. Use the pipet to add the ammonia until a deep blue color forms. The deep blue solution
+       should sit above the green solution.
+Additional Information
+   1. The reactions are:
+               Cu(H2O)42+(aq) + 4 Cl- ↔ CuCl42-(aq) + 4 H2O (l)
+               (pale blue)                (light green)
+               CuCl42-(aq) + 4 NH3 ↔ Cu(NH3)42+(aq) + 4 Cl- (aq)
+               (light green)           (deep blue)
+   2. The tetraaquacopper (II) and tetraaminecopper (II) complexes have a square planar
+       structure. The tetrachlorocopper (II) complex has a tetrahedron structure.
+Disposal
+   Solutions should be placed in properly labeled waste containers with UI# 100947.
+Reference
+   Summerlin, L., Borgford, C., & Ealy j. Chemical Demonstrations: A Sourcebook for
+Teachers, Volume 2, Second Edition, 1988.
+                                                                    Transition Metals/Complex Ions 7

@@ -1,0 +1,26 @@
+                                     Elephant’s Toothpaste
+Purpose
+   To demonstrate the effect of a catalyst (KI) on the decomposition of hydrogen peroxide.
+Materials
+   1.0 liter cylinder                                      Sat’d potassium iodide
+   50 mL liquid detergent                                  food coloring (optional)
+   50 mL 30% hydrogen peroxide                             plastic tub
+Procedure
+   1.       Place a 1.0 liter cylinder in the plastic tub.
+   2.       Add 50 mL of 30% hydrogen peroxide to the cylinder.
+   3.       Add 50 mL of liquid detergent to the cylinder and mix by swirling.
+   4.       Food coloring may be added to alter color.
+   5.       Add 50 mL of Saturated KI solution (72 g KI/50 mL DI H2O).
+   6.       The reaction will occur quickly and copious amounts of foam with result.
+Additional Information
+1.     Avoid contact with skin and eyes while handling H2O2. Store in the original container.
+2.     The reactions are:
+                H2O2 (aq) + I− (aq) → H2O (l) + OI− (aq)
+                H2O2 (aq) + OI− (aq) → H2O (l) + O2 (g) + I− (aq)
+3.     A 6L Erlenmeyer flask can be used in place of the Graduated cylinder. Use double
+       volume of all solutions for this variation.
+Disposal
+       Foam/excess solutions can be washed down the drain with excess water.
+Reference
+       ICE, Chemical Demonstrations Workshop, University of Arizona, 1987.
+                                                                                     Reactions 7

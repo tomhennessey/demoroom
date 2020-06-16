@@ -1,0 +1,32 @@
+                                 Combustion Analysis
+Purpose
+   To qualitatively observe the formation of CO2 and water product for a classic
+   combustion reaction
+Materials
+   Candle                                        Calcium Hydroxide (0.1 M 50 mL)
+   Jar and lid (2)                               Cobalt Chloride (0.1 M 50 mL)
+   Matches                                       Small Filter Paper
+Preparation
+   1. Presoak small filter paper in 50 mL of 0.1 M Cobalt Chloride solution for at least
+       one minute. Remove with tweezers and flame dry the paper at least 6 inches
+       above a Bunsen burner flame until the paper is uniformly blue. Be careful not to
+       burn the filter paper or your hand.
+Procedure
+   1. Invert an open jar 1 inch above the lit candle with the candle burning directly into
+       the jar. This allows for an increased amount of product collection from the
+       atmosphere outside of the jar. Allow the candle to burn for 30 seconds to 1
+       minute.
+   2. Smother the flame by placing the jar over the candle until the flame goes out.
+       Immediately place the dry blue CoCl2 filter paper into the jar and secure the lid
+       onto the jar after.
+   3. Perform the same procedure for product collection in a separate jar, but instead
+       pour 50 mL of 0.1 M Ca(OH)2 into the jar and then secure the lid.
+Additional Information
+   1. The blue filter paper will slowly become pink when the water product of
+       combustion hydrates the CoCl2.
+   2. The Ca(OH)2 will immediately go from a clear solution to a cloudy white solution
+       in the presence of CO2. The solid precipitate that forms is CaCO3.
+Disposal
+    The CoCl2 paper can be flame dried and reused. Everything else can go down the
+    drain with plenty of water.
+                                                                                         Gases 27

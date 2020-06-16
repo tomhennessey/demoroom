@@ -1,0 +1,27 @@
+                                         Methane Bubbles
+Purpose
+    To demonstrate gas density and a combustion reaction.
+Materials
+    plastic funnel                                      glycerine
+    rubber tubing (2 meters)                            soap solution
+    meter stick with candle                             CH4 source
+Procedure
+    1.      Attach the rubber tubing to the plastic funnel (notching the funnel may be helpful).
+    2.      Prepare a soap solution in the demonstration table sink.
+    3.      Add glycerine to the soap solution for thicker walled bubbles.
+    4.      Connect the rubber tubing to the gas outlet on the demonstration table.
+    5.      Tape a candle to a meter stick, light the candle, and a select a student to handle the
+            meter stick.
+    6.      Place the funnel in the solution, turn the gas on and control the gas flow to produce
+            small bubbles that will lift off the funnel, once the funnel is removed from the
+            solution.
+    7.      Once the bubble is free of the funnel, any contact with the candle flame will cause a
+            small but very hot ball of fire.
+Additional Information
+1.      The bubbles rise since their density is less than air, since the bubble is large enough to
+        develop a buoyancy that will overcome the mass of the soap solution.
+2.      Methane is combustible in air:
+                CH4 + 2 O2 ➝ CO2 + 2 H2O + heat
+Reference
+Ice Demonstration Workshop, University of Arizona, 1986.
+                                                                            Reactions: Exothermic 33

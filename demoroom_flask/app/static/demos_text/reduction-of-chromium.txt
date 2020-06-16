@@ -1,0 +1,29 @@
+                                The Reduction of Chromium
+Purpose
+   To demonstrate two oxidation states of chromium, generate heat, and produce a gel by
+   mixing two liquids.
+Materials
+   Two 250 mL Erlenmeyer flasks                           0.5M K2Cr2O7
+   Tall form beaker                                       4M NaHSO3
+   Two 50 mL graduated cylinders                          Hot plate
+Procedure
+   1. Prepare solution 0.5M K2Cr2O7. Dissolve 14.7g of potassium dichromate in 100 mL of
+       warm distilled water.
+   2. Prepare solution 4M NaHSO3. Dissolve 41.6g of sodium bisulfite in 100 mL of warm
+       distilled water.
+   3. Place 50 mL of K2Cr2O7 solution in the beaker and add an equal amount of NaHSO3
+       solution to the beaker.
+   4. The mixture will immediately turn a very dark green, generating quite a bit of heat, and
+       after about 20-30 seconds it will become a gel and lighten.
+Additional Information
+   1. More than one reaction appears to occur in this system. The most significant reaction
+       involves the reduction of chromium and the subsequent formation of hydrated hydroxide:
+   2. It is likely the ions of the sulfate and sodium are incorporated in the gel to form an alum
+       [KCr(SO4)2].
+   3. This demonstration is a fine introduction to an oxidation-reduction reactions unit.
+Disposal
+   Remaining solution/solid should be placed in a properly labeled waste container. A spatula
+   may be necessary to scoop out the gel.
+Reference
+   Summerlin, L., Ealy, J., and Borgford, c> Chemical Demonstrations, Volume II, ACS, 1987.
+                                                                   Transition Metals/Complex Ions 11

@@ -1,0 +1,60 @@
+                                 Colorful Precipitates
+Purpose
+   To demonstrate the predictability of double replacement reactions, the use of
+   solubility rules, and to provide an opportunity for students to write out formulas, total
+   ionic and net ionic equations.
+Materials
+   12 test tubes                                   Sodium carbonate
+   Test tube rack                                  Lead (II) nitrate
+   Nickel (II) chloride                            Barium chloride
+   Potassium iodide                                Copper (II) chloride
+   Sodium sulfate                                  Potassium chloride
+   Sodium nitrate                                  Silver nitrate
+   Ammonium thiocyanate
+Procedure
+   1. Prepare 0.1 M solutions of each of the listed reagents.
+   2. Label 12 test tubes ad follows:
+       1- AgNO3                      5- Pb(NO3)2                       9- BaCl2
+       2- K2Cr2O7                    6- KI                             10- Na2SO4
+       3- NiCl2                      7- NaNO3                          11- CuCl2
+       4- Na2CO3                     8- KCl                            12- Na2CO3
+   3. Fill each test tube one third full of its solution
+   4. Pour the contents of test tube #1 into #2. Ask students to make observations, write
+       out an ionic equation for the reaction, and name the precipitate.
+   5. Mix the remaining test tubes as follows, having the same patterns as in #4 above:
+           a. Test tube #3 into test tube #4
+           b. Test tube #5 into test tube #6
+           c. Test tube #7 into test tube #8
+           d. Test tube #9 into test tube #10
+           e. Test tube #11 into test tube #12
+Additional Information
+   1. Silver nitrate and ammonium thiocyanate produce a brown precipitate, silver
+       thiocyanate.
+           Ag+ + NO3- + 2 K+ + Cr2O72- → Ag2Cr2O7 (s) + 2 K+ + NO3-
+                                                                                   Stoichiometry 1
+
+
+                 (all ions are aqueous)     (spectator ions are ions that do not enter the rxn
+                                            like K+ and NO3-)
+    2. Nickel chloride and sodium carbonate produce the pale blue precipitate, nickel
+        carbonate
+             Ni2+ + 2 Cl- + 2 Na+ + CO32- → NiCO3 (s) + 2 Cl- + 2 Na+
+    3. Lead nitrate and potassium iodide produce the yellow precipitate, lead iodide.
+             Pb2+ + 2 NO3- + 2 K+ +2 I- → PbI2 (s) + 2 NO3- + 2 K+
+    4. Sodium nitrate and potassium chloride produce no reaction.
+             Na+ + NO3- + K+ + Cl- → N.R.
+    5. Barium chloride and sodium sulfate produce the white precipitate, barium sulfate.
+             Ba2+ + 2 Cl- +2 Na+ +SO42- → BaSO4 (s) + 2 Cl- + 2 Na+
+    6. Copper (II) chloride and sodium carbonate produce the pale blue precipitate,
+        copper (II) carbonate.
+             Cu2+ + 2 Cl- + 2 Na+ + CO32- → CuCO3 (s) + 2 Cl- + 2 Na+
+Questions for the Students
+    1. Identify the precipitate.
+    2. Write a balanced equation for the reaction.
+    3. Write the net ionic equation for the reaction.
+Disposal
+    Solutions should be placed in appropriately labeled waste containers, taking care to
+    get all of the precipitates into the waste container. Use UI# 205438.
+Reference
+    Summerlin, L., Borgford, C., and Ealt, J. Chemical Demonstrations, Volume 2, 1987.
+Stoichiometry 2

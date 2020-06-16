@@ -1,0 +1,46 @@
+                            Orange Juice to Strawberry Float
+Purpose
+       To introduce reactions between acids and bases with a foamy demonstration.
+Materials
+       Sodium Bicarbonate                                      Large tray
+       Alconox Soap                                            Long stirring rod
+       Methyl Orange (0.5% Soltn)                              4L beaker
+       Hydrochloric Acid (3M)                                  600 mL Beaker
+       Water
+Procedure
+   1.  Place a very large tray on the demonstration area.
+   2.  Add 600 mL tap water to the 4L beaker
+   3.  Add 100g sodium bicarbonate and 100g Alconox soap to the 4L beaker.
+   4.  Stir the solution with a long stirring rod. All of the solid may not dissolve.
+   5.  Pour 200 mL of 0.5% methyl orange solution (standard indicator) into the 4L beaker.
+       Solution should look similar to orange juice.
+   6.  Place the 4L beaker on the center of the large tray.
+   7.  Wearing safety goggles, quickly and carefully add all of the 540-560 mL 3M HCl in one
+       pour to the 4L beaker and stand back.
+   8.  The mixture will immediately erupt out of the beaker. A color change will occur and the
+       mixture will have the appearance of a strawberry float.
+   9.  After some time, parts of the solution will turn yellow.
+Additional Information
+   1. Sodium bicarbonate reacts with the hydrochloric acid in a neutralization reaction to give
+       the following equation:
+               NaHCO3 (aq) + HCl (aq) → NaCl (aq) + H2O (l) + CO2 (g)
+   2. Acid-base indicators such as methyl orange change over a certain color range with the
+       change in pH. Methyl orange turns from a yellow-orange color at pH =4.4 to a red color
+       at pH = 3.
+   3. The high indicator concentration creates the deep orange color in the basic solution and a
+       berry red color in the end solution.
+Questions for the Students
+   1. What gas creates but also becomes trapped in the soap bubbles?
+   2. What is the pH of the end solution?
+                                                                                      Acid /Bases 1
+
+
+    3. What would happen to the solution if it were allowed to sit in the open air over an
+        extended time period?
+Safety
+        Hydrochloric acid is corrosive to body tissue, so be sure to wear PPE.
+Disposal
+        End mixture can be disposed of down the drain with excess amounts of water.
+Reference
+        1999 Flinn Scientific Publication Vol. 99-3
+Acid /Bases 2

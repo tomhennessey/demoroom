@@ -1,0 +1,58 @@
+                                      The Silver Mirror
+Purpose
+   To demonstrate an oxidation-reduction reaction that effectively illustrates the reduction of
+   silver ions to silver metal
+Materials
+   100 mL graduated cylinder                          dextrose
+   250 mL Erlenmeyer flask                            fructose
+   500 mL Florence flask                              silver nitrate
+   3 150 mL beakers                                   ammonium nitrate
+   50 mL beaker                                       tartaric acid
+   sodium hydroxide                                   ethanol
+   heating unit
+   Solution A: Dissolve 2.5 grams of dextrose and 2.5 grams of fructose in 50 mL of distilled
+   water. Add 0.6 gram of tartaric acid. Bring the solution to a boil, cool it, and pour into a 100
+   mL graduated cylinder. Add 10 mL of ethanol and dilute to 100 mL.
+   Solution B: Dissolve 4.0 grams of silver nitrate into 50 mL of H2O.
+   Solution C: Dissolve 6.0 grams of ammonium nitrate into 50 mL of H2O.
+   Solution D: Dissolve 10 grams of sodium hydroxide in 100 mL of H2O.
+Procedure
+   1.      Clean a 500 mL Florence flask thoroughly.
+   2.      Place 30 mL of Solution A in the flask.
+   3.      Mix 15 mL of Solution B with 15 mL of Solution C in a clean 50 mL beaker and add
+           to the flask - don’t mix until 1 hr. before demo. Explosive!
+   4.      Quickly add 30 mL of Solution D to the flask and stopper it.
+                                                                                      Reactions 21
+
+
+   5.      Mix the flask with a quick but gentle swirling motion. Be sure to cover the entire
+           glass surface evenly while stirring.
+   6.      Continue swirling until the silver mirror forms.
+   7.      IMMEDIATELY pour out the remaining solution down the drain and rinse the silver
+           flask with water. Clean with unconcentrated HNO3.
+Additional Information
+   1.      If the mirror does not form, the flask was probably not clean.
+   2.      This reaction is potentially explosive. Do not mix Solution B and Solution C until the
+           demonstration is performed.
+   3.      Metallic silver is formed when silver ions oxidize the aldehyde part of the glucose
+           molecule:
+                  O                                                O
+                                                                              +
+               HC                                                  CON     H 4
+               HCO     H                                        HC
+             H OCH                      +
+                                                                HCO     H                        +
+                           + 2 A g
+                                 (NH 3)2+  H O
+                                             2                                 + 2Ag +NH 3+ 3 NH 4
+               HCO     H                                      O HCH
+               HCO     H                                        HCO     H
+               HCO     H                                        HCO     H
+                  H                                                H
+Disposal
+       Excess solutions should be filtered with vacuum filtration allowing the silver to be saved
+      (and later made into silver nitrate solution). Excess fluids should be flushed down the sink
+      with excess water as to prevent the formation of silver azide.
+Reference
+Summerlin, L. and Ealy, J. Chemical Demonstrations: A Sourcebook for Teachers, 1985
+Reactions 22

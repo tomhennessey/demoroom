@@ -1,0 +1,27 @@
+                              Miniature Electrolysis of Water
+Purpose
+      To show the electrolysis of water and the Hydrogen and Oxygen gases produced during
+      the process in a small setup.
+Materials
+       Tupperware bowl electrolysis apparatus          Ring stand with ring clamp
+       0.5 M Potassium Sulfate
+       9V Battery
+Procedure
+   1. In the Tupperware bowl, pour approximately 125mL of 0.5M Potassium Sulfate solution.
+       This should fill the bowl halfway.
+   2. Place the 9V battery on the base of the ring stand and position the Tupperware bowl on
+       top of the ring above the battery. Adjust the height so that the thumb tacks on the bottom
+       of the bowl can easily contact the battery while the bowl sits on the ring. Also make sure
+       bubbles appear from the inside of the bowl at each thumb tack.
+   3. Take the lid of the bowl and fill the test tubes with 0.5M Potassium Sulfate to the very
+       top. With the lid in one hand and the bowl in the other, quickly overturn the test tubes and
+       submerge them in the solution in the bowl. The test tubes should be mostly filled with
+       liquid. Make sure NOT to close the lid all the way down on the bowl
+Additional Information
+   1. Do not let the electrodes touch, and if the process is working there should be bubbles at
+       each electrode.
+   2. Make sure to quickly empty the bowl when done with the experiment. Leaving it for too
+       long will rust the tacks.
+Disposal
+   Potassium sulfate solution can be written up with UI# 19498
+                                                                          Electrochemistry 5

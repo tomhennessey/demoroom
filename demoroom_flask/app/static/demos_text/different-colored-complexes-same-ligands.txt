@@ -1,0 +1,31 @@
+             Different Colored Complexes with the Same Ligands
+Procedure
+        To demonstrate that different metal ions (with the same ligands) exhibit different
+colors in a coordination complex.
+Materials
+        0.1 M solutions of copper nitrate and cobalt nitrate
+        Four 250 mL beakers
+        Concentrated aqueous ammonia
+Procedure
+    1. Add 100 mL of the copper nitrate to two of the beakers, 100 mL of the cobalt
+        nitrate to the other two.
+    2. Add the concentrated ammonia to one of the beakers to one of the beakers with
+        the copper nitrate and to one of the beakers with the cobalt nitrate. Note that
+        although the ammonia solution is clear, the colors actually get more intense (light
+        blue to deep blue, pink to green blue).
+Additional Information
+    1. The reactions are:
+                     Cu(H2O)42+(aq) + 4 NH3 ↔ Cu(NH3)42+(aq) + 4 H2O(l)
+                     (pale blue)                (deep blue)
+                     Co(H2O)62+(aq) + 6 NH3 ↔ Co(NH3)42+(aq) + 6 H2O(l)
+                      (pink)                    (deep red)
+    2. This demonstration can be used with a discussion of complex ion equilibria.
+Additional Information
+        Waste should be collected in a properly labelled container with UI# 203459.
+                                                                Transition Metals / Complex Ions 5
+
+
+Reference
+       Summerlin, L., Borgford, C., & Ealy J. Chemical Demonstrations: A Sourcebook
+for Teachers, Volume 2, Second Edition, 1988.
+                                                          Transition Metals / Complex Ions 5

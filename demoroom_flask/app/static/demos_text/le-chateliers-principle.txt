@@ -1,0 +1,49 @@
+                                   Le Chatelier’s Principle
+Purpose
+   To demonstrate how the equilibrium position of a gaseous reaction shifts when the volume of
+   the container is changed.
+Materials
+   100 mL graduated cylinder                             copper metal
+   250 mL Erlenmeyer flask                               concentrated HNO3
+   one hole stopper                                      2 feet tygon tubing
+   2 oz. plastic syringe plunger
+Procedure
+1.     Use lecture bottle of NO2 to fill the Erlenmeyer flask. DO THIS IN THE HOOD!
+2.     Immediately place the stopper on the flask and insert the other end of the tygon tubing
+       into the 100 mL graduated cylinder. This will allow the NO2(g) formed in the flask to
+       flow into the cylinder.
+3.     After enough NO2(g) has flowed into the cylinder to give a medium brown color, place
+       the plunger from the syringe into the top of the graduated cylinder, trapping the gas.
+4.     Suddenly push the plunger from the 100 mL mark to about the 50 mL mark causing the
+       concentration of the NO2 to approximately double. Notice the darkening of the color of
+       the gas.
+5.     Continue holding the plunger at the 50 mL mark and observe that the color lightens as the
+       equilibrium shifts.
+6.     The process can be repeated any number of times.
+Additional Information
+1.     The equilibrium reaction occurring in the graduated cylinder is:
+                2 NO2(g) ⇌ N2O4(g)              brown colorless
+       As the plunger is suddenly pushed in, halving the volume, the NO2 concentration is
+       doubled. This causes the equilibrium to shift to the right, toward the colorless N2O4,
+       illustrating Le Chatelier’s Principle, which predicts that if the volume of the vessel
+       containing a gas phase equilibrium reaction is decreased, the position of the equilibrium
+       shifts toward the side with fewer molecules.
+2.     Warning NO2(g) is a highly toxic, highly corrosive gas. The NO2(g) should be generated
+       in a fume hood.
+           Alternative method for NO2 generation:
+                                                                                      Equilibrium 5
+
+
+       a.      Insert a piece of glass tubing into the one hole stopper and connect the tygon
+               tubing to it.
+       b.      Place a few grams of copper metal in the 250 mL Erlenmeyer flask.
+       c.      In a hood, pour enough concentrated HNO3 onto the copper in the Erlenmeyer
+               flask to cover the copper pieces.
+3.     Rinse the plunger with water immediately after use to minimize the corrosive effects of
+       the NO2 on the rubber seal.
+4.     Trial and error is necessary in order to find a 100 mL graduated cylinder with the correct
+       size bore for the plastic plunger. A snug fit is essential for correct functioning of the
+       demonstration.
+Reference
+   Steven Zumdahl, University of Illinois Department of Chemistry.
+Equilibrium 6

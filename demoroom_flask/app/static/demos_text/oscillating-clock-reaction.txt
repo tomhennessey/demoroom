@@ -1,0 +1,54 @@
+                                   Oscillating Clock Reaction
+Purpose
+   To demonstrate the classic Belousov-Zhabotinsky Reaction illustrating an oscillating reaction
+   mechanism.
+Materials
+   2 liter beaker                                     potassium bromate
+   3 500 mL Erlenmeyer flasks                         Potassium bromide
+   magnetic stirrer / bar                             malonic acid
+   0.1% ferroin indicator                             cerium (IV) ammonium nitrate
+Procedure
+   Preparation
+        1.      Solution A. In a 500 mL flask, dissolve 19 grams of potassium bromate in 500
+                mL of distilled water. This solution is 0.23 M.
+        2.      Solution B. In a 500 mL flask, dissolve 16 grams of malonic acid and 3.5 grams
+                of potassium bromide in 500 mL of distilled water. This solution is 0.31 M
+                malonic acid and 0.059 M KBr.
+        3.      Solution C. In a 500 mL flask, dissolve 5.3 grams of cerium (IV) ammonium
+                nitrate in 500 mL of 2.7 M sulfuric acid. This solution is 0.019 M.
+        4.      Set the 2 liter beaker on the magnetic stirrer.
+   Presentation
+        1.     Pour Solution A and Solution B into the beaker and adjust the stirrer to produce a
+               vortex in the solution.
+        3.     Add Solution C and 30-35 mL of ferroin. The solution will become amber.
+        4.     After about one minute, the color of the solution will change from amber to
+               yellow, then green, and finally red. The color will return to amber and repeat
+               itself many times (20+).
+Additional Information
+   1.       2.7 M sulfuric acid (pour 75 mL of 18 M sulfuric acid into 250 mL of distilled water
+            and dilute the resulting solution to 500 mL with distilled water).
+   2.       The overall reaction occurring in this demonstration is the cerium-catalyzed oxidation
+            of malonic acid by bromate ions in diluted sulfuric acid. The bromate ions are
+                                                                                      Reactions 17
+
+
+           reduced to bromide ions, while the malonic acid is oxidized to carbon dioxide and
+           water. The reaction can be represented by the equation:
+                       3 CH2(CO2H)2 + 4 BrO3− → 4 Br- + 9 CO2 + 6 H2O
+   3.      The reaction mechanism involves two different processes. Process A involves ions,
+           and the steps are two-electron transfers. Process B involves radicals and one-electron
+           transfers. Which process is dominant at a particular time is determined by the
+           bromide ion concentration.
+   4.      Process A occurs when the bromide ion concentration rises above a certain critical
+           level, while Process B dominates when the bromide ion concentration falls below a
+           certain level.
+   5.      Oscillations occur because Process A consumes bromide ions and thus leads to the
+           conditions which favor Process B. Process B liberates bromide ions, which return the
+           reaction to control by Process A.
+   6.      It is apparent that much is to be learned to fully understand the activities within the
+           solution. Many oscillations infer much competition for the available ions.
+Disposal
+   Solutions should be placed in properly labeled waste container.
+Reference
+   Shakharshiri, Bassam; Chemical Demonstrations, Volume II, 1985.
+Reactions 18

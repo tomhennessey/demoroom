@@ -1,0 +1,39 @@
+                                   The Activated Complex
+Purpose
+   To demonstrate the observation of an activated complex and its action.
+Materials
+        hot water bath                                 hydrogen peroxide
+        600 mL beaker                                  potassium sodium tartrate
+        cobalt (II) chloride
+   Solution A: Sodium potassium tartrate: 12 grams KNaC4H4O6•4 H2O per 200 mL of water.
+   Solution B: Hydrogen peroxide: Use a 6% solution. Add 40 mL of 30% H2O2 per 200 mL of
+       solution.
+Procedure
+   1.      Place 200 mL of Solution A in a 600 mL beaker.
+   2.      Warm the solution gently to about 70 C on a hot plate.
+   3.      Add 80 mL of Solution B to the beaker.
+   4.      Add cobalt (II) chloride crystals to the solution.
+   5.      A vigorous reaction will occur. Note the appearance of the green activated complex
+           and the extensive bubbling.
+Additional Information
+   1.      This reaction involves the oxidation of tartaric acid [HO2CCH(OH)CH(OH)CO2H]
+           by hydrogen peroxide in the presence of cobalt (II) chloride catalyst.
+   2.      The green color is due to the formation of a cobalt-tartrate activated complex.
+   3.      Not that the original catalyst, cobalt (II) chloride is pink. As the tartrate is oxidized,
+           the activated complex is broken down to the original catalyst, and the pink color
+           returns.
+   4.      Oxygen and CO2 gases are produced. Oxalic acid (HO2CCO2H) is also produced.
+   5.      Do not exceed 70 C or the solution may froth and overflow.
+   6.      This demonstration also shows the relationship between temperature and reaction rate.
+           Typically, an initial temperature of 50, 60 or 70 C will produce a reaction time of 200,
+           90, or 40 seconds, respectively.
+   7.      As a general rule, increasing the temperature of reaction by 10 C will double the rate
+           of reaction.
+                                                                        Kinetics/Thermodynamics 1
+
+
+Disposal
+       Solutions/solids should be placed in a properly labeled waste container with UI# 96493.
+Reference
+       Summerlin, L. and Ealy, J. Chemical Demonstrations: A Sourcebook for Teachers, 1985
+Kinetics/Thermodynamics 2

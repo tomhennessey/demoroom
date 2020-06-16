@@ -1,0 +1,67 @@
+                                     Colorful Indicators
+Purpose
+   To demonstrate several reactions with carbon dioxide and indicators that result in a variety of
+   color changes.
+Materials
+   12 demo glasses                                       phenol red indicator
+   phenolphthalein indicator                             methyl red indicator
+   bromothymol blue indicator                            universal indicator
+   sodium hydroxide                                      dry ice (CO2)
+   hydrochloric acid                                     insulated gloves
+   thymolphthalein indicator
+Procedure
+1.     Fill each of 12 demo glasses as follows:
+           1st pair: add 1 mL of thymolphthalein indicator solution.
+           2nd pair: add 1 mL of phenophthalein indicator solution.
+           3rd pair: add 1 mL of phenol red indicator solution.
+           4th pair: add 1 mL of bromothymol blue indicator solution.
+           5th pair: add 1 mL of methyl red indicator solution.
+           6th pair: add 1 mL of universal indicator solution.
+8.     Add 1 mL of 0.1 M NaOH solution to each demo glass. Then dilute each with 100 mL of
+       DI H2O.
+9.     Wearing gloves, drop a chunk of solid carbon dioxide into one demo glass of each pair
+       and note the color changes.
+Additional Information
+   1. 5.0 M aqueous ammonia may substitute for sodium hydroxide. The pH will not fall low
+           enough to change the color of methyl red.
+                                                                                  Acid/Bases 3
+
+
+    2.                  Indicator color changes:
+   Test Tube          Indicator                         Color Change                  pH Range
+     Pair
+                                                   Original → NaOH → CO2
+    Number
+       1         thymolphthalein        colorless → blue → colorless                10.6 - 9.4
+       2         phenolphthalein        colorless → pink → colorless                10.0 - 8.2
+       3         phenol red             red → red → yellow                          8.0 - 6.6
+       4         bromothymol blue       blue → blue → yellow                        7.6 - 6.0
+       5         methyl red             orange → yellow → red                       6.0 - 4.8
+       6         Universal indicator green → purple → orange
+3.      Initial pH in all the test tubes is about 11.
+4.      Dissolved CO2 reacts with water in the following manner:
+            CO2 (aq) + H2O → H2CO3 (aq)
+            H2CO3 (aq) + H2O → H3O+ (aq) + HCO3- (aq)
+            HCO3- (aq) + H2O → H3O+ (aq) + CO32- (aq)
+PREPARATION OF THE INDICATOR SOLUTION:
+1.      Dissolve 0.04 gram of thymolphthalein in 50 mL of ethanol and dilute the resulting
+        solution to 100 mL with distilled water.
+2.      Dissolve 0.05 gram of phenolphthalein in 50 mL of ethanol and dilute the resulting
+        solution to 100 mL with distilled water.
+3.      Dissolve 0.04 gram of phenol red in 11 mL of 0.1 M NaOH and dilute the resulting
+        solution to 100 mL with distilled water.
+4.      Dissolve 0.04 gram of bromothymol blue in 6.4 mL of 0.01 M NaOH and dilute the
+        resulting solution to 100 mL with distilled water. Dissolve 0.02 gram of methyl red in 60
+        mL of ethanol and dilute the resulting solution to 100 mL with distilled water.
+5.      To prepare Yamada’s universal indicator dissolve 0.005 gram thymol blue, 0.012 gram
+        methyl red, 0.06 gram bromothymol blue, and 0.10 gram phenolphthalein in 100 mL of
+Acid/Bases 4
+
+
+      ethanol. Add enough 0.01 M sodium hydroxide until the solution is green and dilute the
+      resulting solution to 200 mL with distilled water.
+7.    To prepare 0.1 M sodium hydroxide dissolve 4.0 grams of NaOH in 500 mL distilled
+      water and dilute the resulting solution to 1.0 liter with distilled water.
+Reference
+   Shakharshiri, Bassam; Chemical Demonstrations, Volume II, 1985.
+                                                                                 Acid/Bases 5
