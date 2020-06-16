@@ -1,10 +1,9 @@
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
+*.swp
 /_notes
 error_log
 **/__pycache__
 **/venv
 **/migrations
 config.ini
-
-
