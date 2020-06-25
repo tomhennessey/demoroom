@@ -1,7 +1,7 @@
 from flask import render_template, flash, redirect, send_from_directory
 import os
 from app import app
-from app.forms import LoginForm
+from app.forms import RequestForm
 
 @app.route('/')
 @app.route('/index')
@@ -21,7 +21,8 @@ def index():
 
 @app.route('/request_page')
 def request_page():
-    return render_template('request_page.html', title='Request Page')
+    form = RequestForm()
+    return render_template('request_page.html', title='Request Page', form=form)
 
 @app.route('/about_us')
 def about_us():
