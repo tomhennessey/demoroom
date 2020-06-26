@@ -1,9 +1,21 @@
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
+
+# editor swap file
 *.swp
+
+# that dumb mac thing
 /_notes
+
+# logs
 error_log
+
+# flask ignores
 **/__pycache__
 **/venv
 **/migrations
+**/app.db
+
+# php private file
 config.ini
+

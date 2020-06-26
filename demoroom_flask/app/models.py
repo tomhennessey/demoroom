@@ -8,3 +8,13 @@ class User(db.Model):
 
     def __repr__(self):
         return '<User {}>'.format(self.username)
+
+class Demo(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(256), index=True, unique=True)
+    category = db.Column(db.String(256), index=True, unique=False)
+    text = db.Column(db.String(10000), index=True, unique=True)
+    proper_name = db.Column(db.String(256), index=True, unique=True)
+
+    def __repr__(self):
+        return '<Demo {}>'.format(self.name)
