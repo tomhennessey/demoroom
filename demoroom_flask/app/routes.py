@@ -3,6 +3,11 @@ import os
 from app import app
 from app.forms import RequestForm
 
+# only used for debug
+@app.route('/base')
+def base():
+    return render_template('base.html', title='DEBUG_BASE')
+
 @app.route('/')
 @app.route('/index')
 def index():
