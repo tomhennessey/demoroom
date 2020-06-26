@@ -1,3 +1,9 @@
+# to init the db, run the following commands in venv and run
+# 'flask db init'
+# 'flask db migrate -m "demos table" ' 
+# 'flask db upgrade'
+# and then run this script to populate the database
+
 from os import listdir, walk
 from os.path import isfile, join
 import itertools
