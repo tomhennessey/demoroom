@@ -1,8 +1,22 @@
 {% extends 'bootstrap/base.html' %}
 
+{% block metas %}
+	{{ super() }}
+{% endblock metas %}
+
+{% block styles %}
+	{{ super() }}
+{% endblock styles %}
+
+{% block scripts %}
+	{{ super() }}
+{% endblock scripts %}
+
+
 {% block title %}
 	{% if title %}{{title}} - UIUC Chemistry Demoroom{% else %}{{_('UIUC Chemistry Dmeoroom')}} {% endif %}
 {% endblock title %}
+
 
 {% block navbar %}
 				<a href="{{url_for('index')}}">Home</a>
@@ -22,3 +36,4 @@
 		{% endif %}
 		{% endwith %}
 		{% block content %}{% endblock %}
+
