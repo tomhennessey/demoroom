@@ -28,19 +28,10 @@ def get_names():
     print("get_names done")
 
 # Will remove posix newlines ('\n') and replace w/ spaces
-def get_texts_posix():
+def get_texts():
     for f in listdir(text_demos):
-        file = open(text_demos + f, 'r')
+        file = open(text_demos + f, 'r', encoding='utf-8') # need to specify encoding to work on windows
         currText = file.read().replace('\n', ' ')
-        texts.append(currText)
-    print("get_texts done")
-
-# Windows uses '\r\n' as newline so we need a different version
-# of the above if that's what's running
-def get_texts_windows():
-    for f in listdir(text_demos):
-        file = open(text_demos + f, 'r')
-        currText = file.read().replace('\r\n', ' ')
         texts.append(currText)
     print("get_texts done")
 
@@ -82,9 +73,13 @@ def add_to_db():
         bar.next()
     bar.finish()
 
-get_names()
-get_texts_posix()
-get_proper_names()
-get_categories()
-#print(categories)
-add_to_db()
+if (name == 'nt'):
+    print("detected windows")
+    get_texts()
+    print(texts)
+else:
+    get_names()
+    get_texts_posix()
+    get_proper_names()
+    get_categories()
+    add_to_db()
