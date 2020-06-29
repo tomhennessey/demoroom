@@ -2,27 +2,20 @@ from flask import render_template, flash, redirect, send_from_directory
 import os
 from app import app
 from app.forms import RequestForm
+from app.models import Demo
 
 # only used for debug
 @app.route('/base')
 def base():
     return render_template('base.html', title='DEBUG_BASE')
 
+# homepage - query SLQdb to list demos in index.html
 @app.route('/')
 @app.route('/index')
 def index():
-    user = {'username': 'Tom'}
-    posts = [
-        {
-            'author': {'username': 'John'},
-            'body': 'Beautiful day in Portland!'
-        },
-        {
-            'author': {'username': 'Susan'},
-            'body': 'The Avengers movie was so cool!'
-        }
-    ]
-    return render_template('index.html', title='Home', user=user, posts=posts)
+    demos = Demo.query.order_by(Demo.category).all() 
+    
+    return render_template('index.html', title='Home', demo=demos)
 
 @app.route('/request_page')
 def request_page():
