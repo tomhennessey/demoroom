@@ -11,6 +11,7 @@ from sys import platform as _platform
 from os import listdir, walk, name
 from os.path import isfile, join
 import itertools
+from progress.bar import Bar
 from app import db
 from app.models import Demo
 
@@ -73,13 +74,17 @@ def get_categories():
 
 # goes collects elements from all lists to form database entries and adds them
 def add_to_db():
-    for (a, b, c) in zip(names, texts, proper_names):
-        d = Demo(name=a, text=b, proper_name=c) 
+    bar = Bar('Committing demos to DB', max=108)
+    for (a, b, c, d) in zip(names, texts, proper_names, categories):
+        dem = Demo(name=a, text=b, proper_name=c, category=d) 
+        db.session.add(dem)
         db.session.commit()
-    print("committed to db")
+        bar.next()
+    bar.finish()
 
 get_names()
 get_texts_posix()
 get_proper_names()
 get_categories()
+#print(categories)
 add_to_db()

@@ -5,3 +5,4 @@ flask-migrate
 flask-sqlalchemy
 flask-wtf
 flask-bootstrap
+progress
