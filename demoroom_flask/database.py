@@ -73,13 +73,8 @@ def add_to_db():
         bar.next()
     bar.finish()
 
-if (name == 'nt'):
-    print("detected windows")
-    get_texts()
-    print(texts)
-else:
-    get_names()
-    get_texts_posix()
-    get_proper_names()
-    get_categories()
-    add_to_db()
+get_names()
+get_texts()
+get_proper_names()
+get_categories()
+add_to_db()
