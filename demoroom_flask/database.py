@@ -38,14 +38,14 @@ def get_texts():
 # grab the "good-looking" name of a demo
 def get_proper_names():
     for f in listdir(text_demos):
-        file = open(text_demos + f, 'r')
+        file = open(text_demos + f, 'r', encoding='utf-8')
         currline = " ".join(file.readline().split())
         proper_names.append(currline)
     print("get_proper_names done")
 
 def get_categories():
     for f in listdir(text_demos):
-        file = open(text_demos + f, 'r')
+        file = open(text_demos + f, 'r', encoding='utf-8')
         firstline = file.readline()
         # only want the last line of the file where category is
         for lastline in file:
