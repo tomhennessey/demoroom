@@ -9,6 +9,7 @@ if [ $1 == "i" ]; then
 	flask db init
 	flask db migrate
 	flask db upgrade
+	python3 database.py
 	exit 0
 
 elif [ $1 == "c" ]; then
