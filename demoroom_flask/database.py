@@ -1,8 +1,12 @@
+## Script to generate demo database using text versions of 
+## demo files
+
 # to init the db, run the following commands in venv and run
 # 'flask db init'
 # 'flask db migrate -m "demos table" ' 
 # 'flask db upgrade'
 # and then run this script to populate the database
+
 from sys import platform as _platform
 from os import listdir, walk, name
 from os.path import isfile, join
