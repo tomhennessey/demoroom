@@ -8,40 +8,36 @@
 	</form>
 </div>
 
-<div> DEBUG: demo[0].category = {{ demo[0].category }}</div>
-<div> DEBUG: demo[0].name = {{ demo[0].name }}</div>
-<div id="accordian">
-  <div class="card"> 
-    <div class="card-header" id="headingOne">
-      <h5 class="mb-0">
-	{% set cat = demo[0].category %}
-        {% for item in demo %}
-		{% if item.category != cat %}
-		<button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">{{ item.category }}</button>
-		{% endif %}
-		{% set cat = item.category %}
-	{% endfor %}
-       </h5>
-    </div>
-	      
-	
+<div class="accordian" id="mainAccordian">
 
-<!--
-<div id="accordian">
-  <div class="card">
-    <div class="card-header" id="headingOne">
-      <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Acids and Bases</button>
+{% set ns = namespace(category="blank") %}
+{% set ns = namespace(index=0) %}
+{% for item in demo %}
+<!-- Code for every button -->
+	{% if ns.category != item.category %}
+	{% set ns.index = loop.index %}
+	<div class="card">
+		<div class="card-header" id="heading{{ns.index}}">
+	<h2 class="mb-0">
+		<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ns.index}}" aria-expanded="true" aria-controls="collapse{{ns.index}}">
+		BUTTON
 	</button>
-      </h5>
-    </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordian">
-      <div class="card-body">
-        Colorful Indicators - <a href=".\demos\colorful-indicators.pdf" target="_blank">View Demo Sheet</a> - <a href="html/request_page.html?demo-name0=Colorful_Indicators">Request This Demo</a>
-      </div>
-    </div>
-  </div>
+	</h2>
+	</div>
+	{% endif %}
+	{% set ns.category = item.category %}
+
+<!-- Code for button items (demos) -->
+	<div id="collapse{{loop.index}}" class="collapse show" aria-labelledby="heading{{ns.index}}" data-parent="#mainAccordian">
+	<div class="card-body">
+		DEMO
+	</div>
+	</div>
+{% endfor %}
 </div>
--->
-	
+
+
+
+
+
 {% endblock %}

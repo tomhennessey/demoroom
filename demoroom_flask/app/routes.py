@@ -14,7 +14,6 @@ def base():
 @app.route('/index')
 def index():
     demos = Demo.query.order_by(Demo.category).all() 
-    
     return render_template('index.html', title='Home', demo=demos)
 
 @app.route('/request_page')
