@@ -24,7 +24,7 @@ Procedure
 Additional Information
    1. 5.0 M aqueous ammonia may substitute for sodium hydroxide. The pH will not fall low
            enough to change the color of methyl red.
-                                                                                  Acid/Bases 3
+                                                                                  Acids/Bases 3
 
 
     2.                  Indicator color changes:
@@ -55,7 +55,7 @@ PREPARATION OF THE INDICATOR SOLUTION:
         mL of ethanol and dilute the resulting solution to 100 mL with distilled water.
 5.      To prepare Yamada’s universal indicator dissolve 0.005 gram thymol blue, 0.012 gram
         methyl red, 0.06 gram bromothymol blue, and 0.10 gram phenolphthalein in 100 mL of
-Acid/Bases 4
+Acids/Bases 4
 
 
       ethanol. Add enough 0.01 M sodium hydroxide until the solution is green and dilute the
@@ -64,4 +64,4 @@ Acid/Bases 4
       water and dilute the resulting solution to 1.0 liter with distilled water.
 Reference
    Shakharshiri, Bassam; Chemical Demonstrations, Volume II, 1985.
-                                                                                 Acid/Bases 5
+                                                                                 Acids/Bases 5
