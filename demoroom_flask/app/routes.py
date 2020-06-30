@@ -1,7 +1,7 @@
 from flask import render_template, flash, redirect, send_from_directory
 import os
 from app import app
-from app.forms import RequestForm
+from app.forms import RequestForm, SearchForm
 from app.models import Demo
 
 # only used for debug
@@ -10,11 +10,14 @@ def base():
     return render_template('base.html', title='DEBUG_BASE')
 
 # homepage - query SLQdb to list demos in index.html
-@app.route('/')
-@app.route('/index')
+@app.route('/', methods=['GET', 'POST'])
+@app.route('/index', methods=['GET', 'POST'])
 def index():
+    form = SearchForm()
+    if form.validate_on_submit():
+        return redirect('/index')
     demos = Demo.query.order_by(Demo.category).all() 
-    return render_template('index.html', title='Home', demo=demos)
+    return render_template('index.html', title='Home', demo=demos, form=form)
 
 @app.route('/request_page', methods=['GET', 'POST'])
 def request_page():
