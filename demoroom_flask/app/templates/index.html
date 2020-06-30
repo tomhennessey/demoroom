@@ -7,23 +7,32 @@
 
 <div class="accordian" id="mainAccordian">
 
-{% set ns = namespace(category="Acids/Bases") %}
-{% set ns = namespace(index=0) %}
+{% set ns = namespace(category="blank", index=0) %}
 {% set size = demo|length %}
-
 {% for item in demo %}
-<!-- Code for every button -->
-	{% if ns.category != item.category %}
-	<ul>{{item.category}} -- ns category = {{ns.category}}	
+<!-- Button open code -->
+	{% if ns.category.strip() != item.category.strip() %}
+	<div class="card">
+	<div class="card-header" id="heading{{ns.index}}">
+	<h2 class="mb-0">
+	<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ns.index}}" aria-expanded="false" aria-controls="collapse{{ns.index}}">
+	{{item.category}}
+	</button>
+	</h2>
+	</div>
+	<div id="collapse{{ns.index}}" class="collapse" aria-labelledby="heading{{ns.index}}" data-parent="#mainAccordian">
+	<div class="card-body">
 	{% endif %}
 	{% set ns.category = item.category %}
-<!-- Code for button items (demos) -->
-	<li>{{item.name}} - {{loop.index}}</li>
+<!-- Element code -->
+	<div>{{item.proper_name}}</div>
+<!-- Button close code -->
 	{% if loop.index == size %} 
-		</ul>
+	</div></div></div>
 	{% elif demo[loop.index].category != ns.category %}
-	</ul>
+	</div></div></div>
 	{% endif %}
+	{% set ns.index = loop.index %}
 {% endfor %}
 
 </div>
