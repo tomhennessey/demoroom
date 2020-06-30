@@ -6,3 +6,4 @@ flask-sqlalchemy
 flask-wtf
 flask-bootstrap
 progress
+flask_fontawesome

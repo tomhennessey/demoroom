@@ -16,9 +16,11 @@ def index():
     demos = Demo.query.order_by(Demo.category).all() 
     return render_template('index.html', title='Home', demo=demos)
 
-@app.route('/request_page')
+@app.route('/request_page', methods=['GET', 'POST'])
 def request_page():
     form = RequestForm()
+    if form.validate_on_submit():
+        return redirect('/index')
     return render_template('request_page.html', title='Request Page', form=form)
 
 @app.route('/about_us')
@@ -32,3 +34,7 @@ def contact_us():
 @app.route('/favicon.ico')
 def favicon():
     return send_from_directory(os.path.join(app.root_path, 'static'), 'img/favicon.ico', mimetype='image/vnd.microsoft.icon')
+
+@app.route('/all.css')
+def all_css():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'css/all.css', mimetype='text/css')

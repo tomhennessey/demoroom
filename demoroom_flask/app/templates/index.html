@@ -5,7 +5,7 @@
 	</form>
 </div>
 
-<div class="accordian" id="mainAccordian">
+<div class="accordion" id="mainAccordion">
 
 {% set ns = namespace(category="blank", index=0) %}
 {% set size = demo|length %}
@@ -15,12 +15,16 @@
 	<div class="card">
 	<div class="card-header" id="heading{{ns.index}}">
 	<h2 class="mb-0">
-	<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ns.index}}" aria-expanded="false" aria-controls="collapse{{ns.index}}">
+	<button class="d-flex align-items-center justify-content-between btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ns.index}}" aria-expanded="false" aria-controls="collapse{{ns.index}}">
 	{{item.category}}
+	<span class="fa-stack fa-sm">
+		<i class="fas fa-circle fa-stack-2x"></i>
+		<i class="fas fa-plus fa-stack-1x fa-inverse"></i>
+	</span>
 	</button>
 	</h2>
 	</div>
-	<div id="collapse{{ns.index}}" class="collapse" aria-labelledby="heading{{ns.index}}" data-parent="#mainAccordian">
+	<div id="collapse{{ns.index}}" class="collapse" aria-labelledby="heading{{ns.index}}" data-parent="#mainAccordion">
 	<div class="card-body">
 	{% endif %}
 	{% set ns.category = item.category %}

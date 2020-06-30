@@ -1,22 +1,16 @@
 {% extends 'bootstrap/base.html' %}
-
-{% block metas %}
+{% block head %}
 	{{ super() }}
-{% endblock metas %}
+	{{ fontawesome_html() }}
 
-{% block styles %}
-	{{ super() }}
-{% endblock styles %}
+	<link href="{{url_for('static', filename='css/all.css')}}" type="text/css" rel="stylesheet">
 
-{% block scripts %}
-	{{ super() }}
-{% endblock scripts %}
 
 
 {% block title %}
 	{% if title %}{{title}} - UIUC Chemistry Demoroom{% else %}{{_('UIUC Chemistry Dmeoroom')}} {% endif %}
 {% endblock title %}
-
+{% endblock head %}
 
 {% block navbar %}
 				<a href="{{url_for('index')}}">Home</a>
