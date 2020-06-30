@@ -1,13 +1,14 @@
 from app import db
 
-class User(db.Model):
+class Request(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    username = db.Column(db.String(64), index=True, unique=True)
+    name = db.Column(db.String(64), index=True, unique=True)
     email = db.Column(db.String(120), index=True, unique=True)
-    password_hash = db.Column(db.String(128))
+    demo = db.Column(db.String(128))
+    text_field = db.Column(db.String(10000))
 
     def __repr__(self):
-        return '<User {}>'.format(self.username)
+        return '<Request {}>'.format(self.name)
 
 class Demo(db.Model):
     id = db.Column(db.Integer, primary_key=True)
