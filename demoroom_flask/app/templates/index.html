@@ -15,29 +15,13 @@
 {% for item in demo %}
 <!-- Code for every button -->
 	{% if ns.category != item.category %}
-	{% set ns.index = loop.index %}
-	<div class="card">
-		<div class="card-header" id="heading{{ns.index}}">
-	<h2 class="mb-0">
-		<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ns.index}}" aria-expanded="true" aria-controls="collapse{{ns.index}}">
-		BUTTON
-	</button>
-	</h2>
-	</div>
+	{{item.name}} | {{item.category}}<br>		
 	{% endif %}
-	{% set ns.category = item.category %}
 
+	{% set ns.category = item.category %}
 <!-- Code for button items (demos) -->
-	<div id="collapse{{loop.index}}" class="collapse show" aria-labelledby="heading{{ns.index}}" data-parent="#mainAccordian">
-	<div class="card-body">
-		DEMO
-	</div>
-	</div>
 {% endfor %}
 </div>
-
-
-
 
 
 {% endblock %}
