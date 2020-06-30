@@ -1,9 +1,11 @@
-# Installing Flask Version on POSIX
-Make sure Python 3 and pip are both up to date.  
-Install a python virtual environment with `python -m venv venv`  
-Start the envinroment with `venv/Scripts/activate`  
-In the venv, run `pip install -r requirements.txt` to grab all needed packages.  
-In Windows envinroment, .flaskenv needs `export`s changed to `set`s. (Not needed for Cygwin like setup)  
-Enter command `flask run` to start a local debug server  
+# Installing Flask Version of Demoroom
+* Make sure git is installed (with git bash if using Windows)
+* Make sure Python 3 and pip are both installed and up to date.  
+* Clone this repository onto your machine
+* Navigate to the cloned repository and install a python virtual environment with `python -m venv venv`  
+* In Windows envinroment, .flaskenv needs `export`s changed to `set`s. (Not needed for Cygwin-like setup)  
+* Start the envinroment with `venv/Scripts/activate` on Windows and `source venv\bin\activate` on Linux/Mac 
+* In the venv, run `pip install -r requirements.txt` to download and install all needed packages.  
+* Run `db_reset.sh i` to initiate the database and populate it with demos
+* Enter command `flask run` to start a local debug server. The website can be found locally at localhost:5000 
 
-# Installing Flask Version on Windows
