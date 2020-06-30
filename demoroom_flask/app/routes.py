@@ -1,4 +1,4 @@
-from flask import render_template, flash, redirect, send_from_directory
+from flask import render_template, flash, redirect, send_from_directory, request
 import os
 from app import app
 from app.forms import RequestForm, SearchForm
@@ -14,8 +14,6 @@ def base():
 @app.route('/index', methods=['GET', 'POST'])
 def index():
     form = SearchForm()
-    if form.validate_on_submit():
-        return redirect('/index')
     demos = Demo.query.order_by(Demo.category).all() 
     return render_template('index.html', title='Home', demo=demos, form=form)
 
@@ -33,6 +31,16 @@ def about_us():
 @app.route('/contact_us')
 def contact_us():
     return render_template('contact_us.html', title='Contact Us')
+
+@app.route('/search', methods=['GET', 'POST'])
+def search():
+    query = []
+    if request.method == 'POST':
+        query = request.form['name']
+    form = SearchForm()
+    if form.validate_on_submit():
+        return redirect('/search')
+    return render_template('search.html', title='Home', form=form, query=query)
 
 @app.route('/favicon.ico')
 def favicon():
