@@ -12,3 +12,6 @@ class RequestForm(FlaskForm):
     comments = TextAreaField('Additional Comments')
     submit = SubmitField('Request Demo')
 
+class SearchForm(FlaskForm):
+    name = StringField('search', validators=[DataRequired()])
+
