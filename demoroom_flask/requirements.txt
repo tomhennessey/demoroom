@@ -7,4 +7,3 @@ flask-wtf
 flask-bootstrap
 progress
 flask_fontawesome
-elasticsearch

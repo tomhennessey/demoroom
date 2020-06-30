@@ -19,3 +19,5 @@ class Demo(db.Model):
 
     def __repr__(self):
         return '<Demo {}>'.format(self.name)
+
+

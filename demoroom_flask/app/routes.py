@@ -38,3 +38,4 @@ def favicon():
 @app.route('/all.css')
 def all_css():
     return send_from_directory(os.path.join(app.root_path, 'static'), 'css/all.css', mimetype='text/css')
+
