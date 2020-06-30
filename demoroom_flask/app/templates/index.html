@@ -1,7 +1,4 @@
-{% extends "base.html" %} 
-{% block content %} <h1>UIUC Chemistry Demoroom</h1> <div id="opening">This website is for lecturer's at the University of Illinois at Urbana-Champaign's Chemistry Department to request chemical demonstrations for their lectures. Demos can be browsed by category or searched below. </div>
-	
-<div id="search_bar">
+{% extends "base.html" %} {% block content %} <h1>UIUC Chemistry Demoroom</h1> <div id="opening">This website is for lecturer's at the University of Illinois at Urbana-Champaign's Chemistry Department to request chemical demonstrations for their lectures. Demos can be browsed by category or searched below. </div> <div id="search_bar">
 	<form action="search.php" method="get">
 	<input type="text" placeholder="Enter search term(s)" name="query" id="query">
 	<input type="submit" value="Search">
@@ -10,18 +7,25 @@
 
 <div class="accordian" id="mainAccordian">
 
-{% set ns = namespace(category="blank") %}
+{% set ns = namespace(category="Acids/Bases") %}
 {% set ns = namespace(index=0) %}
+{% set size = demo|length %}
+
 {% for item in demo %}
 <!-- Code for every button -->
 	{% if ns.category != item.category %}
-	{{item.name}} | {{item.category}}<br>		
+	<ul>{{item.category}} -- ns category = {{ns.category}}	
 	{% endif %}
-
 	{% set ns.category = item.category %}
 <!-- Code for button items (demos) -->
+	<li>{{item.name}} - {{loop.index}}</li>
+	{% if loop.index == size %} 
+		</ul>
+	{% elif demo[loop.index].category != ns.category %}
+	</ul>
+	{% endif %}
 {% endfor %}
-</div>
 
+</div>
 
 {% endblock %}
