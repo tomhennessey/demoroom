@@ -18,9 +18,9 @@
 			{% endfor %}
 		</p>
 		<p>
-			{{ form.demo_name.label }}<br>
-			{{ form.demo_name(size=32) }}<br>
-			{% for error in form.demo_name.errors %}
+			{{ form.demo.label }}<br>
+			{{ form.demo(size=32) }}<br>
+			{% for error in form.demo.errors %}
 			<span style="color: red;">[{{ error }}]</span>
 			{% endfor %}
 		</p>

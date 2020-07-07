@@ -1,6 +1,6 @@
 from flask import render_template, flash, redirect, send_from_directory, request, flash
 import os
-from app import app
+from app import app, db
 from app.forms import RequestForm, SearchForm
 from app.models import Demo, DemoRequest
 
@@ -25,8 +25,11 @@ def request_page():
     if form.validate_on_submit() and request.method == 'POST':
         demo = DemoRequest(name=request.form['name'],
             email=request.form['email'],
-            demo=request.form['demo_name'],
-            text_field=request.form.get('comments'))
+            demo=request.form['demo'],
+            date_request=request.form['date_request'],
+            comments=request.form.get('comments'))
+        db.session.add(demo)
+        db.session.commit()
         flash('Your demo request was successfully submitted. You should receive an email confirmation shortly. If you do not, please contact the demoroom at chemdemoroom@illinois.edu')
     return render_template('request_page.html', title='Request Page', form=form)
 
