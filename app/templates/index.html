@@ -29,7 +29,7 @@
 	{% endif %}
 	{% set ns.category = item.category %}
 <!-- Element code -->
-	<div>{{item.proper_name}}</div>
+	<div>{{item.proper_name}} - <a href="static/demos_pdf/{{ item.name }}.pdf" target="_blank">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
 <!-- Button close code -->
 	{% if loop.index == size %} 
 	</div></div></div>

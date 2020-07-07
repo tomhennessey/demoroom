@@ -3,9 +3,13 @@
 {% block content %} 
 <h2> Search Results: </h2>
 <div id="search-results">
-	{% for item in results %}
-		{{ item.proper_name }}<br>
-	{% endfor %}
+	{% if results|length > 1 %}
+		{% for item in results %}
+		<div>{{ item.proper_name }} - <a href="static/demos_pdf/{{ item.name }}.pdf">View Demo Sheet</a> - <a href="">Request This Demo</a></div>
+		{% endfor %}
+	{% else %}
+		<div> No results were found </div>
+	{% endif %}
 </div
 
 {% endblock %}

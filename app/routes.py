@@ -50,7 +50,7 @@ def search():
     results = []
     if request.method == 'POST':
         query = request.form['name']
-        results = Demo.query.filter(Demo.text.like('%' + query + '%'))
+        results = Demo.query.filter(Demo.text.like('%' + query + '%')).all()
     return render_template('search.html', title='Home', form=form, query=query, results=results)
 
 @app.route('/favicon.ico')
