@@ -1,4 +1,4 @@
-from flask import render_template, flash, redirect, send_from_directory, request
+from flask import render_template, flash, redirect, send_from_directory, request, flash
 import os
 from app import app
 from app.forms import RequestForm, SearchForm
@@ -22,8 +22,8 @@ def index():
 @app.route('/request_page', methods=['GET', 'POST'])
 def request_page():
     form = RequestForm()
-    if form.validate_on_submit():
-        return redirect('/index')
+    if form.validate_on_submit() and request.method == 'POST':
+        flash('Your demo request was successfully submitted. You should receive an email confirmation shortly. If you do not, please contact the demoroom at chemdemoroom@illinois.edu')
     return render_template('request_page.html', title='Request Page', form=form)
 
 @app.route('/about_us')

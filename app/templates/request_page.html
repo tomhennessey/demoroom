@@ -1,9 +1,7 @@
 {% extends "base.html" %}
-
-
 {% block content %}
 	<h1>Request a Demo</h1>
-	<form action="" method="post" novalidate>
+	<form action="{{ url_for('request_page') }}" method="post" novalidate>
 		{{ form.hidden_tag() }}
 		<p>
 			{{ form.name.label }}<br>
@@ -42,5 +40,15 @@
 		<p>
 		<p>{{ form.submit() }}</p>
 	</form>
+
+{% with messages = get_flashed_messages() %}
+	{% if messages %}
+		{% for message in messages %}
+		<div class="request-message"> {{ message }} </div><br>
+		{% endfor %}
+	{% endif %}
+{% endwith %}
+
+
 {% endblock %}
 		
