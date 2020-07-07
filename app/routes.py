@@ -13,8 +13,10 @@ def base():
 @app.route('/', methods=['GET', 'POST'])
 @app.route('/index', methods=['GET', 'POST'])
 def index():
-    form = SearchForm()
     demos = Demo.query.order_by(Demo.category).all() 
+    form = SearchForm()
+    if request.method == 'POST' and form.validate_on_submit():
+        return redirect('/search', code=307)
     return render_template('index.html', title='Home', demo=demos, form=form)
 
 @app.route('/request_page', methods=['GET', 'POST'])
@@ -34,13 +36,13 @@ def contact_us():
 
 @app.route('/search', methods=['GET', 'POST'])
 def search():
+    form = SearchForm()
     query = []
+    results = []
     if request.method == 'POST':
         query = request.form['name']
-    form = SearchForm()
-    if form.validate_on_submit():
-        return redirect('/search')
-    return render_template('search.html', title='Home', form=form, query=query)
+        results = Demo.query.filter(Demo.text.like('%' + query + '%'))
+    return render_template('search.html', title='Home', form=form, query=query, results=results)
 
 @app.route('/favicon.ico')
 def favicon():

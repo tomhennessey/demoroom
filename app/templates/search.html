@@ -18,7 +18,9 @@
 </div>
 
 <div id="search-results">
-	{{ query }}
+	{% for item in results %}
+		{{ item.proper_name }}<br>
+	{% endfor %}
 </div
 
 {% endblock %}

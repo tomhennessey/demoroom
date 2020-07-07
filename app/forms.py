@@ -13,5 +13,5 @@ class RequestForm(FlaskForm):
     submit = SubmitField('Request Demo')
 
 class SearchForm(FlaskForm):
-    name = StringField('search', validators=[DataRequired()])
+    name = StringField('Search for a demo:', validators=[DataRequired()])
 
