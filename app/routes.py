@@ -2,7 +2,7 @@ from flask import render_template, flash, redirect, send_from_directory, request
 import os
 from app import app
 from app.forms import RequestForm, SearchForm
-from app.models import Demo
+from app.models import Demo, DemoRequest
 
 # only used for debug
 @app.route('/base')
@@ -23,6 +23,10 @@ def index():
 def request_page():
     form = RequestForm()
     if form.validate_on_submit() and request.method == 'POST':
+        demo = DemoRequest(name=request.form['name'],
+            email=request.form['email'],
+            demo=request.form['demo_name'],
+            text_field=request.form.get('comments'))
         flash('Your demo request was successfully submitted. You should receive an email confirmation shortly. If you do not, please contact the demoroom at chemdemoroom@illinois.edu')
     return render_template('request_page.html', title='Request Page', form=form)
 
