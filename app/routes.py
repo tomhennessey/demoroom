@@ -35,11 +35,13 @@ def request_page():
 
 @app.route('/about_us')
 def about_us():
-    return render_template('about_us.html', title='About Us')
+    form = SearchForm()
+    return render_template('about_us.html', title='About Us', form=form)
 
 @app.route('/contact_us')
 def contact_us():
-    return render_template('contact_us.html', title='Contact Us')
+    form = SearchForm()
+    return render_template('contact_us.html', title='Contact Us', form=form)
 
 @app.route('/search', methods=['GET', 'POST'])
 def search():
@@ -54,6 +56,10 @@ def search():
 @app.route('/favicon.ico')
 def favicon():
     return send_from_directory(os.path.join(app.root_path, 'static'), 'img/favicon.ico', mimetype='image/vnd.microsoft.icon')
+
+@app.route('/logo.png')
+def logo():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'img/logo.png', mimetype='image/png')
 
 @app.route('/all.css')
 def all_css():

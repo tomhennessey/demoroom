@@ -2,43 +2,45 @@
 {% block content %}
 	<h1>Request a Demo</h1>
 	<form action="{{ url_for('request_page') }}" method="post" novalidate>
+		<div class="form-row">
 		{{ form.hidden_tag() }}
-		<p>
+		<div class="col-7">
 			{{ form.name.label }}<br>
-			{{ form.name(size=32) }}<br>
+			{{ form.name(class_="form-control") }}<br>
 			{% for error in form.name.errors %}
 			<span style="color: red;">[{{ error }}]</span>
 			{% endfor %}
-		</p>
-		<p>
+		</div>
+		<div class="col-7">
 			{{ form.email.label }}<br>
-			{{ form.email(size=32) }}<br>
+			{{ form.email(class_="form-control") }}<br>
 			{% for error in form.email.errors %}
 			<span style="color: red;">[{{ error }}]</span>
 			{% endfor %}
-		</p>
-		<p>
+		</div>
+		<div class="col-7">
 			{{ form.demo.label }}<br>
-			{{ form.demo(size=32) }}<br>
+			{{ form.demo(class_="form-control") }}<br>
 			{% for error in form.demo.errors %}
 			<span style="color: red;">[{{ error }}]</span>
 			{% endfor %}
-		</p>
-		<p>
+		</div>
+		<div class="col-7">
 			{{ form.date_request.label }}<br>
-			{{ form.date_request(size=32) }}<br>
+			{{ form.date_request(class_="form-control") }}<br>
 			{% for error in form.date_request.errors %}
 			<span style="color: red;">[{{ error }}]</span>
 			{% endfor %}
-		</p>
-		<p>
+		</div>
+		<div class="col-7">
 			{{ form.comments.label }}<br>
-			{{ form.comments(size=32) }}<br>
+			{{ form.comments(class_="form-control") }}<br>
 			{% for error in form.comments.errors %}
 			<span style="color: red;">[{{ error }}]</span>
 			{% endfor %}
-		<p>
-		<p>{{ form.submit() }}</p>
+		</div>
+		<div class="col-7">{{ form.submit() }}</div>
+		</div>
 	</form>
 
 {% with messages = get_flashed_messages() %}

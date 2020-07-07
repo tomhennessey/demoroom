@@ -5,18 +5,6 @@
 
 <div id="opening">This website is for lecturer's at the University of Illinois at Urbana-Champaign's Chemistry Department to request chemical demonstrations for their lectures. Demos can be browsed by category or searched below. </div> 
 
-<div id="search_bar">
-	<form action="{{ url_for('search') }}" method="POST">
-		{{ form.hidden_tag() }}
-		{{ form.name.label }}
-		{{ form.name(size=32)}}
-		<input type="submit" value="Search">
-			{% for error in form.name.errors %}
-			<span style"color: red;">[{{ error }}]</span>
-			{% endfor %}
-	</form>
-</div>
-
 <div class="accordion" id="mainAccordion">
 
 {% set ns = namespace(category="blank", index=0) %}
