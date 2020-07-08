@@ -15,7 +15,6 @@ error_log
 **/venv
 **/migrations
 **/app.db
-
-# php private file
-config.ini
+**/config.py
+**/.flaskenv
 
