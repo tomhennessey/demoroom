@@ -33,3 +33,7 @@
 .accordion li + li {
 	margin-top: 10px;
 }
+
+#opening, #mainHeader {
+	text-align: center;
+}
