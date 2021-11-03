@@ -18,3 +18,5 @@ error_log
 **/config.py
 **/.flaskenv
 
+# security
+**/app.config
