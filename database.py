@@ -7,6 +7,8 @@
 # 'flask db upgrade'
 # and then run this script to populate the database
 
+# alternatively, just run db_reset.sh
+
 from sys import platform as _platform
 from os import listdir, walk, name
 from os.path import isfile, join
@@ -57,6 +59,8 @@ def get_categories():
         # get rid of spaces around slashes
         lastline = lastline.replace(' /', '/')
         lastline = lastline.replace('/ ', '/')
+        # fix Liquids, Solids, and Colloids harvard comma
+        lastline = lastline.replace('Liquids, Solids and Colloids', 'Liquids, Solids, and Colloids')
 
         # add to the list
         categories.append(lastline)
