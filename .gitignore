@@ -12,8 +12,8 @@ error_log
 **/venv
 **/migrations
 **/app.db
-**/config.py
+#**/config.py
 **/.flaskenv
 
 # security
-**/app.config
+#**/app.config
