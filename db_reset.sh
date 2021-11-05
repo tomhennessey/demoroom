@@ -6,11 +6,6 @@ if [ "$#" != 1 ]; then
 fi
 
 if [ $1 == "i" ]; then
-	if [ -x "$(command -v pip3)" ]; then
-		pip3 install -r requirements.txt
-	elif [ -x "$(command -v pip)" ]; then
-		pip install -r requirements.txt
-	fi
 	flask db init
 	flask db migrate
 	flask db upgrade
