@@ -4,9 +4,6 @@
 # editor swap file
 *.swp
 
-# that dumb mac thing
-/_notes
-
 # logs
 error_log
 
